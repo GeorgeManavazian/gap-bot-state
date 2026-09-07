@@ -1,0 +1,112 @@
+{
+  "cash": 100000.0,
+  "open_positions": {},
+  "pending": {
+    "ADBE": {
+      "gap_open": 274.47,
+      "prior_close": 285.75,
+      "gap_pct": -3.94750656167978,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    },
+    "ALB": {
+      "gap_open": 126.9,
+      "prior_close": 132.16,
+      "gap_pct": -3.9800242130750534,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    },
+    "AMP": {
+      "gap_open": 553.25,
+      "prior_close": 565.08,
+      "gap_pct": -2.093508883697891,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    },
+    "ARES": {
+      "gap_open": 138.37,
+      "prior_close": 141.52,
+      "gap_pct": -2.2258338044092745,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    },
+    "ADSK": {
+      "gap_open": 232.08,
+      "prior_close": 237.52,
+      "gap_pct": -2.2903334456045794,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    },
+    "COIN": {
+      "gap_open": 184.97,
+      "prior_close": 192.7,
+      "gap_pct": -4.011416709911774,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    },
+    "EFX": {
+      "gap_open": 167.99,
+      "prior_close": 189.09,
+      "gap_pct": -11.158707493786025,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    },
+    "FDS": {
+      "gap_open": 305.72,
+      "prior_close": 312.96,
+      "gap_pct": -2.3133946830265697,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    },
+    "FICO": {
+      "gap_open": 934.39,
+      "prior_close": 1118.93,
+      "gap_pct": -16.492541982072165,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    },
+    "LULU": {
+      "gap_open": 98.15,
+      "prior_close": 121.77,
+      "gap_pct": -19.397224275273047,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    },
+    "MCO": {
+      "gap_open": 492.02,
+      "prior_close": 504.3,
+      "gap_pct": -2.4350584969264384,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    },
+    "NEM": {
+      "gap_open": 126.25,
+      "prior_close": 130.43,
+      "gap_pct": -3.2047841754197703,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    },
+    "HOOD": {
+      "gap_open": 120.475,
+      "prior_close": 124.72,
+      "gap_pct": -3.403624118024378,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    },
+    "SPGI": {
+      "gap_open": 438.41,
+      "prior_close": 450.58,
+      "gap_pct": -2.700963202982813,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    },
+    "TSLA": {
+      "gap_open": 362.07,
+      "prior_close": 376.365,
+      "gap_pct": -3.798174644294771,
+      "gap_date": "2026-09-04",
+      "days_waited": 0
+    }
+  },
+  "last_run_date": "2026-09-04"
+}
