@@ -1,0 +1,91 @@
+{
+  "cash": 100000.0,
+  "open_positions": {},
+  "pending": {
+    "AKAM": {
+      "gap_open": 102.685,
+      "prior_close": 105.22,
+      "gap_pct": -2.409237787492869,
+      "gap_date": "2026-09-08",
+      "days_waited": 0
+    },
+    "AMGN": {
+      "gap_open": 408.9,
+      "prior_close": 437.23,
+      "gap_pct": -6.47942730370744,
+      "gap_date": "2026-09-08",
+      "days_waited": 0
+    },
+    "BIIB": {
+      "gap_open": 215.45,
+      "prior_close": 220.83,
+      "gap_pct": -2.4362631888783333,
+      "gap_date": "2026-09-08",
+      "days_waited": 0
+    },
+    "COIN": {
+      "gap_open": 180.68,
+      "prior_close": 184.64,
+      "gap_pct": -2.144714038128239,
+      "gap_date": "2026-09-08",
+      "days_waited": 0
+    },
+    "DDOG": {
+      "gap_open": 207.0,
+      "prior_close": 212.93,
+      "gap_pct": -2.7849528013901312,
+      "gap_date": "2026-09-08",
+      "days_waited": 0
+    },
+    "GILD": {
+      "gap_open": 146.98,
+      "prior_close": 150.995,
+      "gap_pct": -2.659028444650495,
+      "gap_date": "2026-09-08",
+      "days_waited": 0
+    },
+    "GPN": {
+      "gap_open": 90.64,
+      "prior_close": 92.54,
+      "gap_pct": -2.0531661984006977,
+      "gap_date": "2026-09-08",
+      "days_waited": 0
+    },
+    "HWM": {
+      "gap_open": 242.81,
+      "prior_close": 259.27,
+      "gap_pct": -6.3485941296717625,
+      "gap_date": "2026-09-08",
+      "days_waited": 0
+    },
+    "INCY": {
+      "gap_open": 124.105,
+      "prior_close": 126.75,
+      "gap_pct": -2.08678500986193,
+      "gap_date": "2026-09-08",
+      "days_waited": 0
+    },
+    "CRM": {
+      "gap_open": 253.715,
+      "prior_close": 259.23,
+      "gap_pct": -2.127454384137644,
+      "gap_date": "2026-09-08",
+      "days_waited": 0
+    },
+    "NOW": {
+      "gap_open": 136.72,
+      "prior_close": 141.26,
+      "gap_pct": -3.2139317570437433,
+      "gap_date": "2026-09-08",
+      "days_waited": 0
+    },
+    "VRTX": {
+      "gap_open": 529.64,
+      "prior_close": 546.12,
+      "gap_pct": -3.0176517981396063,
+      "gap_date": "2026-09-08",
+      "days_waited": 0
+    }
+  },
+  "last_run_date": "2026-09-08"
+}
