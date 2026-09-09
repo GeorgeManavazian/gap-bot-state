@@ -1,5 +1,5 @@
 {
-  "cash": 99621.31588800302,
+  "cash": 99528.23757166966,
   "open_positions": {
     "INCY": {
       "ticker": "INCY",
@@ -18,7 +18,7 @@
       "strike": 135.0,
       "expiry": "2026-10-16",
       "entry_time": "2026-09-09T09:35:18-0400",
-      "last": 125.0
+      "last": 125.82
     },
     "GILD": {
       "ticker": "GILD",
@@ -37,7 +37,7 @@
       "strike": 152.5,
       "expiry": "2026-09-25",
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 147.325
+      "last": 147.3
     },
     "COIN": {
       "ticker": "COIN",
@@ -56,7 +56,26 @@
       "strike": 197.5,
       "expiry": "2026-09-25",
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 180.65
+      "last": 180.805
+    },
+    "CRM": {
+      "ticker": "CRM",
+      "entry": 253.96871499999997,
+      "stop_price": 226.03215634999998,
+      "tp_price": 259.23,
+      "days_held": 0,
+      "units": 0.19665599219864932,
+      "bucket": "2-3%",
+      "gap_pct": -2.127,
+      "gap_date": "2026-09-08",
+      "entry_date": "2026-09-09",
+      "position_dollars": 4994.446963574099,
+      "cash_cost": 93.07831633336518,
+      "symbol": "CRM   260925C00265000",
+      "strike": 265.0,
+      "expiry": "2026-09-25",
+      "entry_time": "2026-09-09T09:50:30-0400",
+      "last": 252.47
     }
   },
   "pending": {
@@ -99,13 +118,6 @@
       "gap_open": 242.81,
       "prior_close": 259.27,
       "gap_pct": -6.3485941296717625,
-      "gap_date": "2026-09-08",
-      "days_waited": 0
-    },
-    "CRM": {
-      "gap_open": 253.715,
-      "prior_close": 259.23,
-      "gap_pct": -2.127454384137644,
       "gap_date": "2026-09-08",
       "days_waited": 0
     },

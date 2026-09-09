@@ -15,7 +15,7 @@
       "position_dollars": 5000.0,
       "cash_cost": 5000.0,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 130.0
+      "last": 128.51
     },
     "TSLA": {
       "ticker": "TSLA",
@@ -31,7 +31,7 @@
       "position_dollars": 5005.260893558766,
       "cash_cost": 5005.260893558766,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 373.79
+      "last": 373.5199
     },
     "HOOD": {
       "ticker": "HOOD",
@@ -47,7 +47,7 @@
       "position_dollars": 5008.451002392123,
       "cash_cost": 5008.451002392123,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 118.9647
+      "last": 118.54
     },
     "SPGI": {
       "ticker": "SPGI",
@@ -63,7 +63,7 @@
       "position_dollars": 5005.511697587109,
       "cash_cost": 5005.511697587109,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 423.71
+      "last": 423.8
     },
     "ARES": {
       "ticker": "ARES",
@@ -79,7 +79,7 @@
       "position_dollars": 5000.351382422749,
       "cash_cost": 5000.351382422749,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 135.9
+      "last": 135.51
     },
     "FICO": {
       "ticker": "FICO",
@@ -95,7 +95,7 @@
       "position_dollars": 4997.6704837387,
       "cash_cost": 4997.6704837387,
       "entry_time": "2026-09-08T15:50:11-0400",
-      "last": 918.39
+      "last": 916.7054
     },
     "EFX": {
       "ticker": "EFX",
@@ -111,7 +111,7 @@
       "position_dollars": 4998.4259842490255,
       "cash_cost": 4998.4259842490255,
       "entry_time": "2026-09-09T09:35:18-0400",
-      "last": 167.99
+      "last": 166.79
     },
     "LULU": {
       "ticker": "LULU",
@@ -127,7 +127,7 @@
       "position_dollars": 4992.1920538019385,
       "cash_cost": 4992.1920538019385,
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 98.41
+      "last": 98.15
     },
     "GILD": {
       "ticker": "GILD",
@@ -143,7 +143,7 @@
       "position_dollars": 4992.603250493127,
       "cash_cost": 4992.603250493127,
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 147.325
+      "last": 147.3
     }
   },
   "pending": {
@@ -228,13 +228,6 @@
       "gap_open": 242.81,
       "prior_close": 259.27,
       "gap_pct": -6.3485941296717625,
-      "gap_date": "2026-09-08",
-      "days_waited": 0
-    },
-    "CRM": {
-      "gap_open": 253.715,
-      "prior_close": 259.23,
-      "gap_pct": -2.127454384137644,
       "gap_date": "2026-09-08",
       "days_waited": 0
     },

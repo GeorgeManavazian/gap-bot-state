@@ -1,5 +1,5 @@
 {
-  "cash": 99892.05585941496,
+  "cash": 99842.54515086598,
   "open_positions": {
     "GILD": {
       "ticker": "GILD",
@@ -20,7 +20,7 @@
       "short_strike": 150.0,
       "expiry": "2026-09-18",
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 147.325
+      "last": 147.3
     },
     "COIN": {
       "ticker": "COIN",
@@ -41,7 +41,28 @@
       "short_strike": 185.0,
       "expiry": "2026-09-18",
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 180.65
+      "last": 180.805
+    },
+    "CRM": {
+      "ticker": "CRM",
+      "entry": 253.96871499999997,
+      "stop_price": 226.03215634999998,
+      "tp_price": 259.23,
+      "days_held": 0,
+      "units": 0.19677840224075863,
+      "bucket": "2-3%",
+      "gap_pct": -2.127,
+      "gap_date": "2026-09-08",
+      "entry_date": "2026-09-09",
+      "position_dollars": 4997.555795683858,
+      "cash_cost": 49.51070854898585,
+      "long_symbol": "CRM   260918C00255000",
+      "long_strike": 255.0,
+      "short_symbol": "CRM   260918C00260000",
+      "short_strike": 260.0,
+      "expiry": "2026-09-18",
+      "entry_time": "2026-09-09T09:50:30-0400",
+      "last": 252.47
     }
   },
   "pending": {
@@ -84,13 +105,6 @@
       "gap_open": 242.81,
       "prior_close": 259.27,
       "gap_pct": -6.3485941296717625,
-      "gap_date": "2026-09-08",
-      "days_waited": 0
-    },
-    "CRM": {
-      "gap_open": 253.715,
-      "prior_close": 259.23,
-      "gap_pct": -2.127454384137644,
       "gap_date": "2026-09-08",
       "days_waited": 0
     },
