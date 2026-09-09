@@ -1,5 +1,5 @@
 {
-  "cash": 64984.328556051536,
+  "cash": 54999.53325175647,
   "open_positions": {
     "ALB": {
       "ticker": "ALB",
@@ -15,7 +15,7 @@
       "position_dollars": 5000.0,
       "cash_cost": 5000.0,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 130.605
+      "last": 130.0
     },
     "TSLA": {
       "ticker": "TSLA",
@@ -31,7 +31,7 @@
       "position_dollars": 5005.260893558766,
       "cash_cost": 5005.260893558766,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 373.2
+      "last": 373.79
     },
     "HOOD": {
       "ticker": "HOOD",
@@ -47,7 +47,7 @@
       "position_dollars": 5008.451002392123,
       "cash_cost": 5008.451002392123,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 119.4753
+      "last": 118.9647
     },
     "SPGI": {
       "ticker": "SPGI",
@@ -63,7 +63,7 @@
       "position_dollars": 5005.511697587109,
       "cash_cost": 5005.511697587109,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 423.36
+      "last": 423.71
     },
     "ARES": {
       "ticker": "ARES",
@@ -79,7 +79,7 @@
       "position_dollars": 5000.351382422749,
       "cash_cost": 5000.351382422749,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 137.97
+      "last": 135.9
     },
     "FICO": {
       "ticker": "FICO",
@@ -95,7 +95,7 @@
       "position_dollars": 4997.6704837387,
       "cash_cost": 4997.6704837387,
       "entry_time": "2026-09-08T15:50:11-0400",
-      "last": 920.65
+      "last": 918.39
     },
     "EFX": {
       "ticker": "EFX",
@@ -111,7 +111,39 @@
       "position_dollars": 4998.4259842490255,
       "cash_cost": 4998.4259842490255,
       "entry_time": "2026-09-09T09:35:18-0400",
-      "last": 168.11
+      "last": 167.99
+    },
+    "LULU": {
+      "ticker": "LULU",
+      "entry": 98.24815,
+      "stop_price": 61.896334499999995,
+      "tp_price": 121.77,
+      "days_held": 0,
+      "units": 50.812071818165926,
+      "bucket": "10%+",
+      "gap_pct": -19.397,
+      "gap_date": "2026-09-04",
+      "entry_date": "2026-09-09",
+      "position_dollars": 4992.1920538019385,
+      "cash_cost": 4992.1920538019385,
+      "entry_time": "2026-09-09T09:45:04-0400",
+      "last": 98.41
+    },
+    "GILD": {
+      "ticker": "GILD",
+      "entry": 147.12697999999997,
+      "stop_price": 130.94301219999997,
+      "tp_price": 150.995,
+      "days_held": 0,
+      "units": 33.933974927597426,
+      "bucket": "2-3%",
+      "gap_pct": -2.659,
+      "gap_date": "2026-09-08",
+      "entry_date": "2026-09-09",
+      "position_dollars": 4992.603250493127,
+      "cash_cost": 4992.603250493127,
+      "entry_time": "2026-09-09T09:45:04-0400",
+      "last": 147.325
     }
   },
   "pending": {
@@ -140,13 +172,6 @@
       "gap_open": 305.72,
       "prior_close": 312.96,
       "gap_pct": -2.3133946830265697,
-      "gap_date": "2026-09-04",
-      "days_waited": 1
-    },
-    "LULU": {
-      "gap_open": 98.15,
-      "prior_close": 121.77,
-      "gap_pct": -19.397224275273047,
       "gap_date": "2026-09-04",
       "days_waited": 1
     },
@@ -189,13 +214,6 @@
       "gap_open": 207.0,
       "prior_close": 212.93,
       "gap_pct": -2.7849528013901312,
-      "gap_date": "2026-09-08",
-      "days_waited": 0
-    },
-    "GILD": {
-      "gap_open": 146.98,
-      "prior_close": 150.995,
-      "gap_pct": -2.659028444650495,
       "gap_date": "2026-09-08",
       "days_waited": 0
     },

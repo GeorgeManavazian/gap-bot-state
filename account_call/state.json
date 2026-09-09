@@ -1,5 +1,5 @@
 {
-  "cash": 99838.35713121937,
+  "cash": 99621.31588800302,
   "open_positions": {
     "INCY": {
       "ticker": "INCY",
@@ -18,7 +18,45 @@
       "strike": 135.0,
       "expiry": "2026-10-16",
       "entry_time": "2026-09-09T09:35:18-0400",
-      "last": 124.48
+      "last": 125.0
+    },
+    "GILD": {
+      "ticker": "GILD",
+      "entry": 147.12697999999997,
+      "stop_price": 130.94301219999997,
+      "tp_price": 150.995,
+      "days_held": 0,
+      "units": 0.3395940812794796,
+      "bucket": "2-3%",
+      "gap_pct": -2.659,
+      "gap_date": "2026-09-08",
+      "entry_date": "2026-09-09",
+      "position_dollars": 4996.345160452436,
+      "cash_cost": 64.49368728054216,
+      "symbol": "GILD  260925C00152500",
+      "strike": 152.5,
+      "expiry": "2026-09-25",
+      "entry_time": "2026-09-09T09:45:04-0400",
+      "last": 147.325
+    },
+    "COIN": {
+      "ticker": "COIN",
+      "entry": 180.86067999999997,
+      "stop_price": 160.96600519999998,
+      "tp_price": 184.64,
+      "days_held": 0,
+      "units": 0.2761773744287233,
+      "bucket": "2-3%",
+      "gap_pct": -2.145,
+      "gap_date": "2026-09-08",
+      "entry_date": "2026-09-09",
+      "position_dollars": 4994.96277397935,
+      "cash_cost": 152.54755593579782,
+      "symbol": "COIN  260925C00197500",
+      "strike": 197.5,
+      "expiry": "2026-09-25",
+      "entry_time": "2026-09-09T09:45:04-0400",
+      "last": 180.65
     }
   },
   "pending": {
@@ -43,24 +81,10 @@
       "gap_date": "2026-09-08",
       "days_waited": 0
     },
-    "COIN": {
-      "gap_open": 180.68,
-      "prior_close": 184.64,
-      "gap_pct": -2.144714038128239,
-      "gap_date": "2026-09-08",
-      "days_waited": 0
-    },
     "DDOG": {
       "gap_open": 207.0,
       "prior_close": 212.93,
       "gap_pct": -2.7849528013901312,
-      "gap_date": "2026-09-08",
-      "days_waited": 0
-    },
-    "GILD": {
-      "gap_open": 146.98,
-      "prior_close": 150.995,
-      "gap_pct": -2.659028444650495,
       "gap_date": "2026-09-08",
       "days_waited": 0
     },

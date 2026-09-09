@@ -1,6 +1,49 @@
 {
-  "cash": 100000.0,
-  "open_positions": {},
+  "cash": 99892.05585941496,
+  "open_positions": {
+    "GILD": {
+      "ticker": "GILD",
+      "entry": 147.12697999999997,
+      "stop_price": 130.94301219999997,
+      "tp_price": 150.995,
+      "days_held": 0,
+      "units": 0.3398424952377872,
+      "bucket": "2-3%",
+      "gap_pct": -2.659,
+      "gap_date": "2026-09-08",
+      "entry_date": "2026-09-09",
+      "position_dollars": 5000.0,
+      "cash_cost": 65.190389104704,
+      "long_symbol": "GILD  260918C00147000",
+      "long_strike": 147.0,
+      "short_symbol": "GILD  260918C00150000",
+      "short_strike": 150.0,
+      "expiry": "2026-09-18",
+      "entry_time": "2026-09-09T09:45:04-0400",
+      "last": 147.325
+    },
+    "COIN": {
+      "ticker": "COIN",
+      "entry": 180.86067999999997,
+      "stop_price": 160.96600519999998,
+      "tp_price": 184.64,
+      "days_held": 0,
+      "units": 0.27635834320228214,
+      "bucket": "2-3%",
+      "gap_pct": -2.145,
+      "gap_date": "2026-09-08",
+      "entry_date": "2026-09-09",
+      "position_dollars": 4998.235787523811,
+      "cash_cost": 42.753751480342316,
+      "long_symbol": "COIN  260918C00182500",
+      "long_strike": 182.5,
+      "short_symbol": "COIN  260918C00185000",
+      "short_strike": 185.0,
+      "expiry": "2026-09-18",
+      "entry_time": "2026-09-09T09:45:04-0400",
+      "last": 180.65
+    }
+  },
   "pending": {
     "AKAM": {
       "gap_open": 102.685,
@@ -23,24 +66,10 @@
       "gap_date": "2026-09-08",
       "days_waited": 0
     },
-    "COIN": {
-      "gap_open": 180.68,
-      "prior_close": 184.64,
-      "gap_pct": -2.144714038128239,
-      "gap_date": "2026-09-08",
-      "days_waited": 0
-    },
     "DDOG": {
       "gap_open": 207.0,
       "prior_close": 212.93,
       "gap_pct": -2.7849528013901312,
-      "gap_date": "2026-09-08",
-      "days_waited": 0
-    },
-    "GILD": {
-      "gap_open": 146.98,
-      "prior_close": 150.995,
-      "gap_pct": -2.659028444650495,
       "gap_date": "2026-09-08",
       "days_waited": 0
     },
