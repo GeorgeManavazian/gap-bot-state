@@ -20,7 +20,7 @@
       "short_strike": 150.0,
       "expiry": "2026-09-18",
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 147.3
+      "last": 145.65
     },
     "COIN": {
       "ticker": "COIN",
@@ -41,7 +41,7 @@
       "short_strike": 185.0,
       "expiry": "2026-09-18",
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 180.805
+      "last": 174.72
     },
     "CRM": {
       "ticker": "CRM",
@@ -62,7 +62,7 @@
       "short_strike": 260.0,
       "expiry": "2026-09-18",
       "entry_time": "2026-09-09T09:50:30-0400",
-      "last": 252.47
+      "last": 244.16
     }
   },
   "pending": {
@@ -71,57 +71,92 @@
       "prior_close": 105.22,
       "gap_pct": -2.409237787492869,
       "gap_date": "2026-09-08",
-      "days_waited": 0
+      "days_waited": 1
     },
     "AMGN": {
       "gap_open": 408.9,
       "prior_close": 437.23,
       "gap_pct": -6.47942730370744,
       "gap_date": "2026-09-08",
-      "days_waited": 0
+      "days_waited": 1
     },
     "BIIB": {
       "gap_open": 215.45,
       "prior_close": 220.83,
       "gap_pct": -2.4362631888783333,
       "gap_date": "2026-09-08",
-      "days_waited": 0
+      "days_waited": 1
     },
     "DDOG": {
       "gap_open": 207.0,
       "prior_close": 212.93,
       "gap_pct": -2.7849528013901312,
       "gap_date": "2026-09-08",
-      "days_waited": 0
+      "days_waited": 1
     },
     "GPN": {
       "gap_open": 90.64,
       "prior_close": 92.54,
       "gap_pct": -2.0531661984006977,
       "gap_date": "2026-09-08",
-      "days_waited": 0
+      "days_waited": 1
     },
     "HWM": {
       "gap_open": 242.81,
       "prior_close": 259.27,
       "gap_pct": -6.3485941296717625,
       "gap_date": "2026-09-08",
-      "days_waited": 0
+      "days_waited": 1
     },
     "NOW": {
       "gap_open": 136.72,
       "prior_close": 141.26,
       "gap_pct": -3.2139317570437433,
       "gap_date": "2026-09-08",
-      "days_waited": 0
+      "days_waited": 1
     },
     "VRTX": {
       "gap_open": 529.64,
       "prior_close": 546.12,
       "gap_pct": -3.0176517981396063,
       "gap_date": "2026-09-08",
+      "days_waited": 1
+    },
+    "BKNG": {
+      "gap_open": 176.37,
+      "prior_close": 180.3,
+      "gap_pct": -2.179700499168057,
+      "gap_date": "2026-09-09",
+      "days_waited": 0
+    },
+    "CASY": {
+      "gap_open": 627.475,
+      "prior_close": 733.49,
+      "gap_pct": -14.45350311524356,
+      "gap_date": "2026-09-09",
+      "days_waited": 0
+    },
+    "EXPE": {
+      "gap_open": 266.4,
+      "prior_close": 274.55,
+      "gap_pct": -2.968493899107643,
+      "gap_date": "2026-09-09",
+      "days_waited": 0
+    },
+    "LUV": {
+      "gap_open": 37.89,
+      "prior_close": 38.67,
+      "gap_pct": -2.0170674941815387,
+      "gap_date": "2026-09-09",
+      "days_waited": 0
+    },
+    "VMC": {
+      "gap_open": 251.42,
+      "prior_close": 258.3,
+      "gap_pct": -2.6635694928377944,
+      "gap_date": "2026-09-09",
       "days_waited": 0
     }
   },
-  "last_run_date": "2026-09-08"
+  "last_run_date": "2026-09-09"
 }

@@ -6,7 +6,7 @@
       "entry": 127.0269,
       "stop_price": 106.702596,
       "tp_price": 132.16,
-      "days_held": 0,
+      "days_held": 1,
       "units": 39.36174148940106,
       "bucket": "3-5%",
       "gap_pct": -3.98,
@@ -15,14 +15,14 @@
       "position_dollars": 5000.0,
       "cash_cost": 5000.0,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 128.51
+      "last": 125.91
     },
     "TSLA": {
       "ticker": "TSLA",
       "entry": 362.43206999999995,
       "stop_price": 304.4429387999999,
       "tp_price": 376.365,
-      "days_held": 0,
+      "days_held": 1,
       "units": 13.810204195116526,
       "bucket": "3-5%",
       "gap_pct": -3.798,
@@ -31,14 +31,14 @@
       "position_dollars": 5005.260893558766,
       "cash_cost": 5005.260893558766,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 373.5199
+      "last": 367.81
     },
     "HOOD": {
       "ticker": "HOOD",
       "entry": 120.59547499999998,
       "stop_price": 101.30019899999998,
       "tp_price": 124.72,
-      "days_held": 0,
+      "days_held": 1,
       "units": 41.5310027378069,
       "bucket": "3-5%",
       "gap_pct": -3.404,
@@ -47,14 +47,14 @@
       "position_dollars": 5008.451002392123,
       "cash_cost": 5008.451002392123,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 118.54
+      "last": 115.28
     },
     "SPGI": {
       "ticker": "SPGI",
       "entry": 438.84841,
       "stop_price": 390.5750849,
       "tp_price": 450.58,
-      "days_held": 0,
+      "days_held": 1,
       "units": 11.406015342717337,
       "bucket": "2-3%",
       "gap_pct": -2.701,
@@ -63,14 +63,14 @@
       "position_dollars": 5005.511697587109,
       "cash_cost": 5005.511697587109,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 423.8
+      "last": 418.36
     },
     "ARES": {
       "ticker": "ARES",
       "entry": 138.50836999999999,
       "stop_price": 123.27244929999999,
       "tp_price": 141.52,
-      "days_held": 0,
+      "days_held": 1,
       "units": 36.10143836378083,
       "bucket": "2-3%",
       "gap_pct": -2.226,
@@ -79,14 +79,14 @@
       "position_dollars": 5000.351382422749,
       "cash_cost": 5000.351382422749,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 135.51
+      "last": 134.37
     },
     "FICO": {
       "ticker": "FICO",
       "entry": 935.3243899999999,
       "stop_price": 589.2543656999999,
       "tp_price": 1118.93,
-      "days_held": 0,
+      "days_held": 1,
       "units": 5.343248328784306,
       "bucket": "10%+",
       "gap_pct": -16.493,
@@ -95,7 +95,7 @@
       "position_dollars": 4997.6704837387,
       "cash_cost": 4997.6704837387,
       "entry_time": "2026-09-08T15:50:11-0400",
-      "last": 916.7054
+      "last": 983.19
     },
     "EFX": {
       "ticker": "EFX",
@@ -111,7 +111,7 @@
       "position_dollars": 4998.4259842490255,
       "cash_cost": 4998.4259842490255,
       "entry_time": "2026-09-09T09:35:18-0400",
-      "last": 166.79
+      "last": 168.09
     },
     "LULU": {
       "ticker": "LULU",
@@ -127,7 +127,7 @@
       "position_dollars": 4992.1920538019385,
       "cash_cost": 4992.1920538019385,
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 98.15
+      "last": 99.72
     },
     "GILD": {
       "ticker": "GILD",
@@ -143,7 +143,7 @@
       "position_dollars": 4992.603250493127,
       "cash_cost": 4992.603250493127,
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 147.3
+      "last": 145.65
     }
   },
   "pending": {
@@ -152,99 +152,134 @@
       "prior_close": 285.75,
       "gap_pct": -3.94750656167978,
       "gap_date": "2026-09-04",
-      "days_waited": 1
+      "days_waited": 2
     },
     "ADSK": {
       "gap_open": 232.08,
       "prior_close": 237.52,
       "gap_pct": -2.2903334456045794,
       "gap_date": "2026-09-04",
-      "days_waited": 1
+      "days_waited": 2
     },
     "COIN": {
       "gap_open": 184.97,
       "prior_close": 192.7,
       "gap_pct": -4.011416709911774,
       "gap_date": "2026-09-04",
-      "days_waited": 1
+      "days_waited": 2
     },
     "FDS": {
       "gap_open": 305.72,
       "prior_close": 312.96,
       "gap_pct": -2.3133946830265697,
       "gap_date": "2026-09-04",
-      "days_waited": 1
+      "days_waited": 2
     },
     "MCO": {
       "gap_open": 492.02,
       "prior_close": 504.3,
       "gap_pct": -2.4350584969264384,
       "gap_date": "2026-09-04",
-      "days_waited": 1
+      "days_waited": 2
     },
     "NEM": {
       "gap_open": 126.25,
       "prior_close": 130.43,
       "gap_pct": -3.2047841754197703,
       "gap_date": "2026-09-04",
-      "days_waited": 1
+      "days_waited": 2
     },
     "AKAM": {
       "gap_open": 102.685,
       "prior_close": 105.22,
       "gap_pct": -2.409237787492869,
       "gap_date": "2026-09-08",
-      "days_waited": 0
+      "days_waited": 1
     },
     "AMGN": {
       "gap_open": 408.9,
       "prior_close": 437.23,
       "gap_pct": -6.47942730370744,
       "gap_date": "2026-09-08",
-      "days_waited": 0
+      "days_waited": 1
     },
     "BIIB": {
       "gap_open": 215.45,
       "prior_close": 220.83,
       "gap_pct": -2.4362631888783333,
       "gap_date": "2026-09-08",
-      "days_waited": 0
+      "days_waited": 1
     },
     "DDOG": {
       "gap_open": 207.0,
       "prior_close": 212.93,
       "gap_pct": -2.7849528013901312,
       "gap_date": "2026-09-08",
-      "days_waited": 0
+      "days_waited": 1
     },
     "GPN": {
       "gap_open": 90.64,
       "prior_close": 92.54,
       "gap_pct": -2.0531661984006977,
       "gap_date": "2026-09-08",
-      "days_waited": 0
+      "days_waited": 1
     },
     "HWM": {
       "gap_open": 242.81,
       "prior_close": 259.27,
       "gap_pct": -6.3485941296717625,
       "gap_date": "2026-09-08",
-      "days_waited": 0
+      "days_waited": 1
     },
     "NOW": {
       "gap_open": 136.72,
       "prior_close": 141.26,
       "gap_pct": -3.2139317570437433,
       "gap_date": "2026-09-08",
-      "days_waited": 0
+      "days_waited": 1
     },
     "VRTX": {
       "gap_open": 529.64,
       "prior_close": 546.12,
       "gap_pct": -3.0176517981396063,
       "gap_date": "2026-09-08",
+      "days_waited": 1
+    },
+    "BKNG": {
+      "gap_open": 176.37,
+      "prior_close": 180.3,
+      "gap_pct": -2.179700499168057,
+      "gap_date": "2026-09-09",
+      "days_waited": 0
+    },
+    "CASY": {
+      "gap_open": 627.475,
+      "prior_close": 733.49,
+      "gap_pct": -14.45350311524356,
+      "gap_date": "2026-09-09",
+      "days_waited": 0
+    },
+    "EXPE": {
+      "gap_open": 266.4,
+      "prior_close": 274.55,
+      "gap_pct": -2.968493899107643,
+      "gap_date": "2026-09-09",
+      "days_waited": 0
+    },
+    "LUV": {
+      "gap_open": 37.89,
+      "prior_close": 38.67,
+      "gap_pct": -2.0170674941815387,
+      "gap_date": "2026-09-09",
+      "days_waited": 0
+    },
+    "VMC": {
+      "gap_open": 251.42,
+      "prior_close": 258.3,
+      "gap_pct": -2.6635694928377944,
+      "gap_date": "2026-09-09",
       "days_waited": 0
     }
   },
-  "last_run_date": "2026-09-08"
+  "last_run_date": "2026-09-09"
 }
