@@ -1,6 +1,26 @@
 {
-  "cash": 100000.0,
-  "open_positions": {},
+  "cash": 99838.35713121937,
+  "open_positions": {
+    "INCY": {
+      "ticker": "INCY",
+      "entry": 124.22910499999999,
+      "stop_price": 110.56390345,
+      "tp_price": 126.75,
+      "days_held": 0,
+      "units": 0.40248217195157293,
+      "bucket": "2-3%",
+      "gap_pct": -2.087,
+      "gap_date": "2026-09-08",
+      "entry_date": "2026-09-09",
+      "position_dollars": 5000.0,
+      "cash_cost": 161.6428687806292,
+      "symbol": "INCY  261016C00135000",
+      "strike": 135.0,
+      "expiry": "2026-10-16",
+      "entry_time": "2026-09-09T09:35:18-0400",
+      "last": 124.48
+    }
+  },
   "pending": {
     "AKAM": {
       "gap_open": 102.685,
@@ -55,13 +75,6 @@
       "gap_open": 242.81,
       "prior_close": 259.27,
       "gap_pct": -6.3485941296717625,
-      "gap_date": "2026-09-08",
-      "days_waited": 0
-    },
-    "INCY": {
-      "gap_open": 124.105,
-      "prior_close": 126.75,
-      "gap_pct": -2.08678500986193,
       "gap_date": "2026-09-08",
       "days_waited": 0
     },
