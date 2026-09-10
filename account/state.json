@@ -15,7 +15,7 @@
       "position_dollars": 5000.0,
       "cash_cost": 5000.0,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 122.96
+      "last": 123.995
     },
     "TSLA": {
       "ticker": "TSLA",
@@ -31,7 +31,7 @@
       "position_dollars": 5005.260893558766,
       "cash_cost": 5005.260893558766,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 367.32
+      "last": 366.245
     },
     "HOOD": {
       "ticker": "HOOD",
@@ -47,7 +47,7 @@
       "position_dollars": 5008.451002392123,
       "cash_cost": 5008.451002392123,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 115.82
+      "last": 114.05
     },
     "SPGI": {
       "ticker": "SPGI",
@@ -63,7 +63,7 @@
       "position_dollars": 5005.511697587109,
       "cash_cost": 5005.511697587109,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 416.015
+      "last": 416.49
     },
     "ARES": {
       "ticker": "ARES",
@@ -79,7 +79,7 @@
       "position_dollars": 5000.351382422749,
       "cash_cost": 5000.351382422749,
       "entry_time": "2026-09-08T15:00:06-0400",
-      "last": 131.69
+      "last": 133.08
     },
     "FICO": {
       "ticker": "FICO",
@@ -95,7 +95,7 @@
       "position_dollars": 4997.6704837387,
       "cash_cost": 4997.6704837387,
       "entry_time": "2026-09-08T15:50:11-0400",
-      "last": 961.97
+      "last": 962.0
     },
     "EFX": {
       "ticker": "EFX",
@@ -111,7 +111,7 @@
       "position_dollars": 4998.4259842490255,
       "cash_cost": 4998.4259842490255,
       "entry_time": "2026-09-09T09:35:18-0400",
-      "last": 168.25
+      "last": 167.86
     },
     "LULU": {
       "ticker": "LULU",
@@ -127,7 +127,7 @@
       "position_dollars": 4992.1920538019385,
       "cash_cost": 4992.1920538019385,
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 98.27
+      "last": 98.1311
     },
     "GILD": {
       "ticker": "GILD",
@@ -143,7 +143,7 @@
       "position_dollars": 4992.603250493127,
       "cash_cost": 4992.603250493127,
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 144.485
+      "last": 144.3
     },
     "NEM": {
       "ticker": "NEM",
@@ -159,7 +159,7 @@
       "position_dollars": 4963.8151604303885,
       "cash_cost": 4963.8151604303885,
       "entry_time": "2026-09-10T09:50:30-0400",
-      "last": 125.835
+      "last": 126.37
     }
   },
   "pending": {
@@ -246,13 +246,6 @@
       "gap_pct": -3.0176517981396063,
       "gap_date": "2026-09-08",
       "days_waited": 1
-    },
-    "BKNG": {
-      "gap_open": 176.37,
-      "prior_close": 180.3,
-      "gap_pct": -2.179700499168057,
-      "gap_date": "2026-09-09",
-      "days_waited": 0
     },
     "CASY": {
       "gap_open": 627.475,

@@ -1,5 +1,5 @@
 {
-  "cash": 99730.06898928009,
+  "cash": 99665.14973126195,
   "open_positions": {
     "GILD": {
       "ticker": "GILD",
@@ -20,7 +20,7 @@
       "short_strike": 150.0,
       "expiry": "2026-09-18",
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 144.485
+      "last": 144.3
     },
     "COIN": {
       "ticker": "COIN",
@@ -41,7 +41,7 @@
       "short_strike": 185.0,
       "expiry": "2026-09-18",
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 173.1674
+      "last": 172.33
     },
     "CRM": {
       "ticker": "CRM",
@@ -62,7 +62,7 @@
       "short_strike": 260.0,
       "expiry": "2026-09-18",
       "entry_time": "2026-09-09T09:50:30-0400",
-      "last": 245.19
+      "last": 245.15
     },
     "BIIB": {
       "ticker": "BIIB",
@@ -83,7 +83,28 @@
       "short_strike": 220.0,
       "expiry": "2026-09-18",
       "entry_time": "2026-09-10T10:10:30-0400",
-      "last": 213.89
+      "last": 214.38
+    },
+    "BKNG": {
+      "ticker": "BKNG",
+      "entry": 176.54637,
+      "stop_price": 157.1262693,
+      "tp_price": 180.3,
+      "days_held": 0,
+      "units": 0.2827522578583924,
+      "bucket": "2-3%",
+      "gap_pct": -2.18,
+      "gap_date": "2026-09-09",
+      "entry_date": "2026-09-10",
+      "position_dollars": 4991.888473420315,
+      "cash_cost": 64.91925801813828,
+      "long_symbol": "BKNG  260918C00176000",
+      "long_strike": 176.0,
+      "short_symbol": "BKNG  260918C00180000",
+      "short_strike": 180.0,
+      "expiry": "2026-09-18",
+      "entry_time": "2026-09-10T12:05:30-0400",
+      "last": 176.31
     }
   },
   "pending": {
@@ -135,13 +156,6 @@
       "gap_pct": -3.0176517981396063,
       "gap_date": "2026-09-08",
       "days_waited": 1
-    },
-    "BKNG": {
-      "gap_open": 176.37,
-      "prior_close": 180.3,
-      "gap_pct": -2.179700499168057,
-      "gap_date": "2026-09-09",
-      "days_waited": 0
     },
     "CASY": {
       "gap_open": 627.475,

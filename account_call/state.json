@@ -1,5 +1,5 @@
 {
-  "cash": 99437.39109856948,
+  "cash": 99371.78146842356,
   "open_positions": {
     "INCY": {
       "ticker": "INCY",
@@ -18,7 +18,7 @@
       "strike": 135.0,
       "expiry": "2026-10-16",
       "entry_time": "2026-09-09T09:35:18-0400",
-      "last": 125.745
+      "last": 123.73
     },
     "GILD": {
       "ticker": "GILD",
@@ -37,7 +37,7 @@
       "strike": 152.5,
       "expiry": "2026-09-25",
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 144.485
+      "last": 144.3
     },
     "COIN": {
       "ticker": "COIN",
@@ -56,7 +56,7 @@
       "strike": 197.5,
       "expiry": "2026-09-25",
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 173.1674
+      "last": 172.33
     },
     "CRM": {
       "ticker": "CRM",
@@ -75,7 +75,7 @@
       "strike": 265.0,
       "expiry": "2026-09-25",
       "entry_time": "2026-09-09T09:50:30-0400",
-      "last": 245.19
+      "last": 245.15
     },
     "BIIB": {
       "ticker": "BIIB",
@@ -94,7 +94,26 @@
       "strike": 222.5,
       "expiry": "2026-09-25",
       "entry_time": "2026-09-10T10:10:30-0400",
-      "last": 213.89
+      "last": 214.38
+    },
+    "BKNG": {
+      "ticker": "BKNG",
+      "entry": 176.54637,
+      "stop_price": 157.1262693,
+      "tp_price": 180.3,
+      "days_held": 0,
+      "units": 0.28243317454749156,
+      "bucket": "2-3%",
+      "gap_pct": -2.18,
+      "gap_date": "2026-09-09",
+      "entry_date": "2026-09-10",
+      "position_dollars": 4986.2551733936025,
+      "cash_cost": 65.60963014592306,
+      "symbol": "BKNG  260925C00185000",
+      "strike": 185.0,
+      "expiry": "2026-09-25",
+      "entry_time": "2026-09-10T12:05:30-0400",
+      "last": 176.31
     }
   },
   "pending": {
@@ -146,13 +165,6 @@
       "gap_pct": -3.0176517981396063,
       "gap_date": "2026-09-08",
       "days_waited": 1
-    },
-    "BKNG": {
-      "gap_open": 176.37,
-      "prior_close": 180.3,
-      "gap_pct": -2.179700499168057,
-      "gap_date": "2026-09-09",
-      "days_waited": 0
     },
     "CASY": {
       "gap_open": 627.475,
