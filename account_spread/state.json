@@ -20,7 +20,7 @@
       "short_strike": 150.0,
       "expiry": "2026-09-18",
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 145.65
+      "last": 144.545
     },
     "COIN": {
       "ticker": "COIN",
@@ -41,7 +41,7 @@
       "short_strike": 185.0,
       "expiry": "2026-09-18",
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 174.72
+      "last": 171.42
     },
     "CRM": {
       "ticker": "CRM",
@@ -62,7 +62,7 @@
       "short_strike": 260.0,
       "expiry": "2026-09-18",
       "entry_time": "2026-09-09T09:50:30-0400",
-      "last": 244.16
+      "last": 247.1
     }
   },
   "pending": {
