@@ -1,5 +1,5 @@
 {
-  "cash": 99528.23757166966,
+  "cash": 99437.39109856948,
   "open_positions": {
     "INCY": {
       "ticker": "INCY",
@@ -18,7 +18,7 @@
       "strike": 135.0,
       "expiry": "2026-10-16",
       "entry_time": "2026-09-09T09:35:18-0400",
-      "last": 125.985
+      "last": 125.745
     },
     "GILD": {
       "ticker": "GILD",
@@ -37,7 +37,7 @@
       "strike": 152.5,
       "expiry": "2026-09-25",
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 144.545
+      "last": 144.485
     },
     "COIN": {
       "ticker": "COIN",
@@ -56,7 +56,7 @@
       "strike": 197.5,
       "expiry": "2026-09-25",
       "entry_time": "2026-09-09T09:45:04-0400",
-      "last": 171.42
+      "last": 173.1674
     },
     "CRM": {
       "ticker": "CRM",
@@ -75,7 +75,26 @@
       "strike": 265.0,
       "expiry": "2026-09-25",
       "entry_time": "2026-09-09T09:50:30-0400",
-      "last": 247.1
+      "last": 245.19
+    },
+    "BIIB": {
+      "ticker": "BIIB",
+      "entry": 215.66544999999996,
+      "stop_price": 191.94225049999997,
+      "tp_price": 220.83,
+      "days_held": 0,
+      "units": 0.231273007949152,
+      "bucket": "2-3%",
+      "gap_pct": -2.436,
+      "gap_date": "2026-09-08",
+      "entry_date": "2026-09-10",
+      "position_dollars": 4987.759733220744,
+      "cash_cost": 90.84647310016929,
+      "symbol": "BIIB  260925C00222500",
+      "strike": 222.5,
+      "expiry": "2026-09-25",
+      "entry_time": "2026-09-10T10:10:30-0400",
+      "last": 213.89
     }
   },
   "pending": {
@@ -90,13 +109,6 @@
       "gap_open": 408.9,
       "prior_close": 437.23,
       "gap_pct": -6.47942730370744,
-      "gap_date": "2026-09-08",
-      "days_waited": 1
-    },
-    "BIIB": {
-      "gap_open": 215.45,
-      "prior_close": 220.83,
-      "gap_pct": -2.4362631888783333,
       "gap_date": "2026-09-08",
       "days_waited": 1
     },
