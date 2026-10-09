@@ -1,0 +1,172 @@
+{
+  "polled_at": "2026-10-09T16:00:02-0400",
+  "session": "2026-10-09",
+  "profile": "ramp",
+  "equity": 100000.0,
+  "exits": [],
+  "entries": [],
+  "watched": {
+    "AMAT": {
+      "kind": "pending",
+      "gap_open": 509.935,
+      "gap_date": "2026-10-08",
+      "consumed_on": "2026-10-09",
+      "h": 519.71,
+      "l": 504.8,
+      "last": 507.03
+    },
+    "CCL": {
+      "kind": "pending",
+      "gap_open": 25.61,
+      "gap_date": "2026-10-08",
+      "consumed_on": null,
+      "h": 26.455,
+      "l": 26.02,
+      "last": 26.345
+    },
+    "CIEN": {
+      "kind": "pending",
+      "gap_open": 436.15,
+      "gap_date": "2026-10-08",
+      "consumed_on": "2026-10-09",
+      "h": 454.7282,
+      "l": 424.02,
+      "last": 449.85
+    },
+    "COHR": {
+      "kind": "pending",
+      "gap_open": 320.44,
+      "gap_date": "2026-10-08",
+      "consumed_on": "2026-10-09",
+      "h": 332.09,
+      "l": 302.35,
+      "last": 312.95
+    },
+    "GLW": {
+      "kind": "pending",
+      "gap_open": 158.26,
+      "gap_date": "2026-10-08",
+      "consumed_on": "2026-10-09",
+      "h": 159.18,
+      "l": 151.2,
+      "last": 156.6
+    },
+    "HSIC": {
+      "kind": "pending",
+      "gap_open": 79.95,
+      "gap_date": "2026-10-08",
+      "consumed_on": null,
+      "h": 85.13,
+      "l": 83.475,
+      "last": 84.01
+    },
+    "HPE": {
+      "kind": "pending",
+      "gap_open": 70.45,
+      "gap_date": "2026-10-08",
+      "consumed_on": null,
+      "h": 73.56,
+      "l": 70.46,
+      "last": 73.42
+    },
+    "INTC": {
+      "kind": "pending",
+      "gap_open": 110.38,
+      "gap_date": "2026-10-08",
+      "consumed_on": null,
+      "h": 108.38,
+      "l": 104.0,
+      "last": 104.7
+    },
+    "KLAC": {
+      "kind": "pending",
+      "gap_open": 192.715,
+      "gap_date": "2026-10-08",
+      "consumed_on": null,
+      "h": 201.71,
+      "l": 195.08,
+      "last": 195.57
+    },
+    "LRCX": {
+      "kind": "pending",
+      "gap_open": 321.02,
+      "gap_date": "2026-10-08",
+      "consumed_on": "2026-10-09",
+      "h": 326.72,
+      "l": 316.01,
+      "last": 318.84
+    },
+    "LITE": {
+      "kind": "pending",
+      "gap_open": 1067.025,
+      "gap_date": "2026-10-08",
+      "consumed_on": null,
+      "h": 1143.0,
+      "l": 1077.375,
+      "last": 1103.355
+    },
+    "MRVL": {
+      "kind": "pending",
+      "gap_open": 277.6,
+      "gap_date": "2026-10-08",
+      "consumed_on": "2026-10-09",
+      "h": 283.78,
+      "l": 267.7025,
+      "last": 275.28
+    },
+    "NXPI": {
+      "kind": "pending",
+      "gap_open": 229.45,
+      "gap_date": "2026-10-08",
+      "consumed_on": "2026-10-09",
+      "h": 233.6699,
+      "l": 224.66,
+      "last": 227.52
+    },
+    "ON": {
+      "kind": "pending",
+      "gap_open": 80.47,
+      "gap_date": "2026-10-08",
+      "consumed_on": "2026-10-09",
+      "h": 81.25,
+      "l": 75.78,
+      "last": 77.53
+    },
+    "PSKY": {
+      "kind": "pending",
+      "gap_open": 9.26,
+      "gap_date": "2026-10-08",
+      "consumed_on": null,
+      "h": null,
+      "l": null,
+      "last": null
+    },
+    "SWKS": {
+      "kind": "pending",
+      "gap_open": 81.44,
+      "gap_date": "2026-10-08",
+      "consumed_on": null,
+      "h": 79.58,
+      "l": 73.9311,
+      "last": 76.35
+    },
+    "SMCI": {
+      "kind": "pending",
+      "gap_open": 44.03,
+      "gap_date": "2026-10-08",
+      "consumed_on": null,
+      "h": 43.45,
+      "l": 40.625,
+      "last": 41.855
+    },
+    "UAL": {
+      "kind": "pending",
+      "gap_open": 107.87,
+      "gap_date": "2026-10-08",
+      "consumed_on": null,
+      "h": 107.69,
+      "l": 104.29,
+      "last": 107.455
+    }
+  }
+}
