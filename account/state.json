@@ -1,6 +1,23 @@
 {
-  "cash": 100000.0,
-  "open_positions": {},
+  "cash": 88888.88888888889,
+  "open_positions": {
+    "T": {
+      "ticker": "T",
+      "entry": 22.402379999999997,
+      "stop_price": 11.201189999999999,
+      "tp_price": 24.87,
+      "days_held": 0,
+      "units": 495.9790482578687,
+      "bucket": "10%+",
+      "gap_pct": -10.012,
+      "gap_date": "2026-10-09",
+      "entry_date": "2026-10-12",
+      "position_dollars": 11111.111111111111,
+      "cash_cost": 11111.111111111111,
+      "entry_time": "2026-10-12T09:31:03-0400",
+      "last": 22.475
+    }
+  },
   "pending": {
     "CCL": {
       "gap_open": 25.61,
@@ -35,7 +52,8 @@
       "prior_close": 196.83,
       "gap_pct": -2.0906365899507233,
       "gap_date": "2026-10-08",
-      "days_waited": 1
+      "days_waited": 1,
+      "consumed_on": "2026-10-12"
     },
     "LITE": {
       "gap_open": 1067.025,
@@ -69,13 +87,6 @@
       "gap_open": 331.695,
       "prior_close": 340.42,
       "gap_pct": -2.563010398918989,
-      "gap_date": "2026-10-09",
-      "days_waited": 0
-    },
-    "T": {
-      "gap_open": 22.38,
-      "prior_close": 24.87,
-      "gap_pct": -10.012062726176122,
       "gap_date": "2026-10-09",
       "days_waited": 0
     },
