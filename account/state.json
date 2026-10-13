@@ -1,5 +1,5 @@
 {
-  "cash": 88888.88888888889,
+  "cash": 77769.36707529498,
   "open_positions": {
     "T": {
       "ticker": "T",
@@ -15,7 +15,23 @@
       "position_dollars": 11111.111111111111,
       "cash_cost": 11111.111111111111,
       "entry_time": "2026-10-12T09:31:03-0400",
-      "last": 22.49
+      "last": 22.555
+    },
+    "VZ": {
+      "ticker": "VZ",
+      "entry": 42.87282999999999,
+      "stop_price": 21.436414999999997,
+      "tp_price": 46.35,
+      "days_held": 0,
+      "units": 259.36057436828645,
+      "bucket": "5-10%",
+      "gap_pct": -7.594,
+      "gap_date": "2026-10-09",
+      "entry_date": "2026-10-13",
+      "position_dollars": 11119.521813593901,
+      "cash_cost": 11119.521813593901,
+      "entry_time": "2026-10-13T09:34:02-0400",
+      "last": 42.875
     }
   },
   "pending": {
@@ -89,13 +105,6 @@
       "gap_date": "2026-10-09",
       "days_waited": 1
     },
-    "VZ": {
-      "gap_open": 42.83,
-      "prior_close": 46.35,
-      "gap_pct": -7.594390507011872,
-      "gap_date": "2026-10-09",
-      "days_waited": 1
-    },
     "ADBE": {
       "gap_open": 234.625,
       "prior_close": 242.27,
@@ -108,7 +117,8 @@
       "prior_close": 101.27,
       "gap_pct": -4.216451071393301,
       "gap_date": "2026-10-12",
-      "days_waited": 0
+      "days_waited": 0,
+      "consumed_on": "2026-10-13"
     },
     "CMG": {
       "gap_open": 30.75,
