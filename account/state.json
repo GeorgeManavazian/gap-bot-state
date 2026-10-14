@@ -1,5 +1,5 @@
 {
-  "cash": 77769.36707529498,
+  "cash": 66619.96904346852,
   "open_positions": {
     "T": {
       "ticker": "T",
@@ -15,7 +15,7 @@
       "position_dollars": 11111.111111111111,
       "cash_cost": 11111.111111111111,
       "entry_time": "2026-10-12T09:31:03-0400",
-      "last": 22.85
+      "last": 22.7699
     },
     "VZ": {
       "ticker": "VZ",
@@ -31,7 +31,23 @@
       "position_dollars": 11119.521813593901,
       "cash_cost": 11119.521813593901,
       "entry_time": "2026-10-13T09:34:02-0400",
-      "last": 43.53
+      "last": 43.4986
+    },
+    "DPZ": {
+      "ticker": "DPZ",
+      "entry": 287.29700999999994,
+      "stop_price": 143.64850499999997,
+      "tp_price": 310.9,
+      "days_held": 0,
+      "units": 38.80791530627648,
+      "bucket": "5-10%",
+      "gap_pct": -7.684,
+      "gap_date": "2026-10-13",
+      "entry_date": "2026-10-14",
+      "position_dollars": 11149.398031826464,
+      "cash_cost": 11149.398031826464,
+      "entry_time": "2026-10-14T10:08:02-0400",
+      "last": 287.14
     }
   },
   "pending": {
@@ -173,14 +189,16 @@
       "prior_close": 405.01,
       "gap_pct": -2.8838794103849303,
       "gap_date": "2026-10-13",
-      "days_waited": 0
+      "days_waited": 0,
+      "consumed_on": "2026-10-14"
     },
     "FIX": {
       "gap_open": 1600.0,
       "prior_close": 1638.05,
       "gap_pct": -2.3228839168523523,
       "gap_date": "2026-10-13",
-      "days_waited": 0
+      "days_waited": 0,
+      "consumed_on": "2026-10-14"
     },
     "GLW": {
       "gap_open": 143.19,
@@ -196,19 +214,13 @@
       "gap_date": "2026-10-13",
       "days_waited": 0
     },
-    "DPZ": {
-      "gap_open": 287.01,
-      "prior_close": 310.9,
-      "gap_pct": -7.684142811193306,
-      "gap_date": "2026-10-13",
-      "days_waited": 0
-    },
     "GEV": {
       "gap_open": 974.6,
       "prior_close": 996.8,
       "gap_pct": -2.227126805778484,
       "gap_date": "2026-10-13",
-      "days_waited": 0
+      "days_waited": 0,
+      "consumed_on": "2026-10-14"
     },
     "GNRC": {
       "gap_open": 213.51,
@@ -236,7 +248,8 @@
       "prior_close": 377.7,
       "gap_pct": -2.2451681228488116,
       "gap_date": "2026-10-13",
-      "days_waited": 0
+      "days_waited": 0,
+      "consumed_on": "2026-10-14"
     },
     "KLAC": {
       "gap_open": 185.415,
@@ -257,7 +270,8 @@
       "prior_close": 995.41,
       "gap_pct": -2.373393877899559,
       "gap_date": "2026-10-13",
-      "days_waited": 0
+      "days_waited": 0,
+      "consumed_on": "2026-10-14"
     },
     "MRVL": {
       "gap_open": 253.53,
@@ -278,21 +292,24 @@
       "prior_close": 106.37,
       "gap_pct": -2.1528626492432137,
       "gap_date": "2026-10-13",
-      "days_waited": 0
+      "days_waited": 0,
+      "consumed_on": "2026-10-14"
     },
     "RDDT": {
       "gap_open": 155.51,
       "prior_close": 159.93,
       "gap_pct": -2.763709122741209,
       "gap_date": "2026-10-13",
-      "days_waited": 0
+      "days_waited": 0,
+      "consumed_on": "2026-10-14"
     },
     "VRT": {
       "gap_open": 234.26,
       "prior_close": 239.36,
       "gap_pct": -2.1306818181818272,
       "gap_date": "2026-10-13",
-      "days_waited": 0
+      "days_waited": 0,
+      "consumed_on": "2026-10-14"
     },
     "VST": {
       "gap_open": 153.51,
