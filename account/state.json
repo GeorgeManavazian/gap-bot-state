@@ -1,5 +1,5 @@
 {
-  "cash": 67498.1518138234,
+  "cash": 56130.16656486123,
   "open_positions": {
     "T": {
       "ticker": "T",
@@ -15,7 +15,7 @@
       "position_dollars": 11111.111111111111,
       "cash_cost": 11111.111111111111,
       "entry_time": "2026-10-12T09:31:03-0400",
-      "last": 23.495
+      "last": 23.5619
     },
     "VZ": {
       "ticker": "VZ",
@@ -31,7 +31,7 @@
       "position_dollars": 11119.521813593901,
       "cash_cost": 11119.521813593901,
       "entry_time": "2026-10-13T09:34:02-0400",
-      "last": 44.74
+      "last": 44.75
     },
     "TMUS": {
       "ticker": "TMUS",
@@ -47,7 +47,23 @@
       "position_dollars": 11175.132717497767,
       "cash_cost": 11175.132717497767,
       "entry_time": "2026-10-14T12:06:02-0400",
-      "last": 159.91
+      "last": 160.485
+    },
+    "WDC": {
+      "ticker": "WDC",
+      "entry": 359.359,
+      "stop_price": 179.6795,
+      "tp_price": 386.94,
+      "days_held": 0,
+      "units": 31.634063009308694,
+      "bucket": "5-10%",
+      "gap_pct": -7.221,
+      "gap_date": "2026-10-13",
+      "entry_date": "2026-10-20",
+      "position_dollars": 11367.985248962163,
+      "cash_cost": 11367.985248962163,
+      "entry_time": "2026-10-20T10:28:02-0400",
+      "last": 359.32
     }
   },
   "pending": {
@@ -195,13 +211,6 @@
       "gap_open": 207.63,
       "prior_close": 213.74,
       "gap_pct": -2.85861326845701,
-      "gap_date": "2026-10-13",
-      "days_waited": 4
-    },
-    "WDC": {
-      "gap_open": 359.0,
-      "prior_close": 386.94,
-      "gap_pct": -7.220757740218121,
       "gap_date": "2026-10-13",
       "days_waited": 4
     },
