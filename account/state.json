@@ -1,5 +1,5 @@
 {
-  "cash": 55444.836325970755,
+  "cash": 67498.1518138234,
   "open_positions": {
     "T": {
       "ticker": "T",
@@ -15,7 +15,7 @@
       "position_dollars": 11111.111111111111,
       "cash_cost": 11111.111111111111,
       "entry_time": "2026-10-12T09:31:03-0400",
-      "last": 23.2
+      "last": 23.495
     },
     "VZ": {
       "ticker": "VZ",
@@ -31,23 +31,7 @@
       "position_dollars": 11119.521813593901,
       "cash_cost": 11119.521813593901,
       "entry_time": "2026-10-13T09:34:02-0400",
-      "last": 44.15
-    },
-    "DPZ": {
-      "ticker": "DPZ",
-      "entry": 287.29700999999994,
-      "stop_price": 143.64850499999997,
-      "tp_price": 310.9,
-      "days_held": 3,
-      "units": 38.80791530627648,
-      "bucket": "5-10%",
-      "gap_pct": -7.684,
-      "gap_date": "2026-10-13",
-      "entry_date": "2026-10-14",
-      "position_dollars": 11149.398031826464,
-      "cash_cost": 11149.398031826464,
-      "entry_time": "2026-10-14T10:08:02-0400",
-      "last": 305.42
+      "last": 44.74
     },
     "TMUS": {
       "ticker": "TMUS",
@@ -63,7 +47,7 @@
       "position_dollars": 11175.132717497767,
       "cash_cost": 11175.132717497767,
       "entry_time": "2026-10-14T12:06:02-0400",
-      "last": 156.09
+      "last": 159.91
     }
   },
   "pending": {
@@ -310,7 +294,8 @@
       "prior_close": 69.62,
       "gap_pct": -3.0451019821890326,
       "gap_date": "2026-10-15",
-      "days_waited": 2
+      "days_waited": 2,
+      "consumed_on": "2026-10-20"
     },
     "KEYS": {
       "gap_open": 344.08,
@@ -345,7 +330,8 @@
       "prior_close": 500.8,
       "gap_pct": -2.5978434504792314,
       "gap_date": "2026-10-19",
-      "days_waited": 0
+      "days_waited": 0,
+      "consumed_on": "2026-10-20"
     },
     "LMT": {
       "gap_open": 540.97,
