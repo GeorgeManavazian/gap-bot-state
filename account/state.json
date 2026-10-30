@@ -6,7 +6,7 @@
       "entry": 22.402379999999997,
       "stop_price": 11.201189999999999,
       "tp_price": 24.87,
-      "days_held": 13,
+      "days_held": 14,
       "units": 495.9790482578687,
       "bucket": "10%+",
       "gap_pct": -10.012,
@@ -15,14 +15,14 @@
       "position_dollars": 11111.111111111111,
       "cash_cost": 11111.111111111111,
       "entry_time": "2026-10-12T09:31:03-0400",
-      "last": 20.92
+      "last": 21.41
     },
     "VZ": {
       "ticker": "VZ",
       "entry": 42.87282999999999,
       "stop_price": 21.436414999999997,
       "tp_price": 46.35,
-      "days_held": 12,
+      "days_held": 13,
       "units": 259.36057436828645,
       "bucket": "5-10%",
       "gap_pct": -7.594,
@@ -31,14 +31,14 @@
       "position_dollars": 11119.521813593901,
       "cash_cost": 11119.521813593901,
       "entry_time": "2026-10-13T09:34:02-0400",
-      "last": 43.66
+      "last": 44.73
     },
     "TMUS": {
       "ticker": "TMUS",
       "entry": 155.66550999999998,
       "stop_price": 77.83275499999999,
       "tp_price": 171.31,
-      "days_held": 11,
+      "days_held": 12,
       "units": 71.78939456465191,
       "bucket": "5-10%",
       "gap_pct": -9.223,
@@ -47,7 +47,7 @@
       "position_dollars": 11175.132717497767,
       "cash_cost": 11175.132717497767,
       "entry_time": "2026-10-14T12:06:02-0400",
-      "last": 147.29
+      "last": 156.44
     }
   },
   "pending": {
@@ -56,750 +56,855 @@
       "prior_close": 26.15,
       "gap_pct": -2.0650095602294423,
       "gap_date": "2026-10-08",
-      "days_waited": 15
+      "days_waited": 16
     },
     "HSIC": {
       "gap_open": 79.95,
       "prior_close": 83.66,
       "gap_pct": -4.434616304087967,
       "gap_date": "2026-10-08",
-      "days_waited": 15
+      "days_waited": 16
     },
     "INTC": {
       "gap_open": 110.38,
       "prior_close": 113.12,
       "gap_pct": -2.42220650636493,
       "gap_date": "2026-10-08",
-      "days_waited": 15
+      "days_waited": 16
     },
     "SMCI": {
       "gap_open": 44.03,
       "prior_close": 44.94,
       "gap_pct": -2.0249221183800548,
       "gap_date": "2026-10-08",
-      "days_waited": 15
+      "days_waited": 16
     },
     "UAL": {
       "gap_open": 107.87,
       "prior_close": 110.17,
       "gap_pct": -2.087682672233818,
       "gap_date": "2026-10-08",
-      "days_waited": 15
+      "days_waited": 16
     },
     "AAPL": {
       "gap_open": 331.695,
       "prior_close": 340.42,
       "gap_pct": -2.563010398918989,
       "gap_date": "2026-10-09",
-      "days_waited": 14
+      "days_waited": 15
     },
     "CVS": {
       "gap_open": 85.9,
       "prior_close": 87.8,
       "gap_pct": -2.164009111617302,
       "gap_date": "2026-10-09",
-      "days_waited": 14
+      "days_waited": 15
     },
     "ADBE": {
       "gap_open": 234.625,
       "prior_close": 242.27,
       "gap_pct": -3.1555702315598335,
       "gap_date": "2026-10-12",
-      "days_waited": 13
+      "days_waited": 14
     },
     "COHR": {
       "gap_open": 306.0,
       "prior_close": 312.62,
       "gap_pct": -2.1175868466508874,
       "gap_date": "2026-10-12",
-      "days_waited": 13
+      "days_waited": 14
     },
     "MU": {
       "gap_open": 1002.445,
       "prior_close": 1029.0,
       "gap_pct": -2.5806608357628718,
       "gap_date": "2026-10-12",
-      "days_waited": 13
+      "days_waited": 14
     },
     "SNDK": {
       "gap_open": 1538.115,
       "prior_close": 1581.82,
       "gap_pct": -2.7629565943027607,
       "gap_date": "2026-10-12",
-      "days_waited": 13
+      "days_waited": 14
     },
     "STX": {
       "gap_open": 767.0,
       "prior_close": 783.0,
       "gap_pct": -2.0434227330779056,
       "gap_date": "2026-10-12",
-      "days_waited": 13
+      "days_waited": 14
     },
     "TER": {
       "gap_open": 394.09,
       "prior_close": 402.68,
       "gap_pct": -2.1332075096851177,
       "gap_date": "2026-10-12",
-      "days_waited": 13
+      "days_waited": 14
     },
     "AMAT": {
       "gap_open": 485.395,
       "prior_close": 497.53,
       "gap_pct": -2.4390489015737726,
       "gap_date": "2026-10-13",
-      "days_waited": 12
+      "days_waited": 13
     },
     "ANET": {
       "gap_open": 204.98,
       "prior_close": 210.88,
       "gap_pct": -2.797799696509866,
       "gap_date": "2026-10-13",
-      "days_waited": 12
+      "days_waited": 13
     },
     "DELL": {
       "gap_open": 556.62,
       "prior_close": 576.76,
       "gap_pct": -3.4919203828282104,
       "gap_date": "2026-10-13",
-      "days_waited": 12
+      "days_waited": 13
     },
     "GNRC": {
       "gap_open": 213.51,
       "prior_close": 218.37,
       "gap_pct": -2.2255804368732033,
       "gap_date": "2026-10-13",
-      "days_waited": 12
+      "days_waited": 13
     },
     "HPE": {
       "gap_open": 67.56,
       "prior_close": 70.33,
       "gap_pct": -3.9385752879283324,
       "gap_date": "2026-10-13",
-      "days_waited": 12
+      "days_waited": 13
     },
     "KLAC": {
       "gap_open": 185.415,
       "prior_close": 190.12,
       "gap_pct": -2.4747527877130295,
       "gap_date": "2026-10-13",
-      "days_waited": 12
+      "days_waited": 13
     },
     "LRCX": {
       "gap_open": 301.68,
       "prior_close": 309.56,
       "gap_pct": -2.5455485204806805,
       "gap_date": "2026-10-13",
-      "days_waited": 12
-    },
-    "BAC": {
-      "gap_open": 49.83,
-      "prior_close": 53.96,
-      "gap_pct": -7.653817642698299,
-      "gap_date": "2026-10-14",
-      "days_waited": 11
+      "days_waited": 13
     },
     "FAST": {
       "gap_open": 47.505,
       "prior_close": 51.43,
       "gap_pct": -7.631732451876331,
       "gap_date": "2026-10-14",
-      "days_waited": 11
+      "days_waited": 12
     },
     "FLEX": {
       "gap_open": 108.26,
       "prior_close": 110.88,
       "gap_pct": -2.362914862914854,
       "gap_date": "2026-10-14",
-      "days_waited": 11
+      "days_waited": 12
     },
     "FTNT": {
       "gap_open": 186.76,
       "prior_close": 190.76,
       "gap_pct": -2.0968756552736423,
       "gap_date": "2026-10-14",
-      "days_waited": 11
+      "days_waited": 12
     },
     "JBL": {
       "gap_open": 311.39,
       "prior_close": 317.86,
       "gap_pct": -2.0354873214622873,
       "gap_date": "2026-10-14",
-      "days_waited": 11
+      "days_waited": 12
     },
     "NTAP": {
       "gap_open": 231.605,
       "prior_close": 239.01,
       "gap_pct": -3.09819672817037,
       "gap_date": "2026-10-14",
-      "days_waited": 11
+      "days_waited": 12
     },
     "PGR": {
       "gap_open": 206.97,
       "prior_close": 222.88,
       "gap_pct": -7.138370423546301,
       "gap_date": "2026-10-14",
-      "days_waited": 11
+      "days_waited": 12
     },
     "HOOD": {
       "gap_open": 107.2,
       "prior_close": 110.52,
       "gap_pct": -3.0039811798769396,
       "gap_date": "2026-10-14",
-      "days_waited": 11
+      "days_waited": 12
     },
     "STT": {
       "gap_open": 161.9,
       "prior_close": 174.1,
       "gap_pct": -7.007466973004014,
       "gap_date": "2026-10-14",
-      "days_waited": 11
+      "days_waited": 12
     },
     "KEYS": {
       "gap_open": 344.08,
       "prior_close": 357.62,
       "gap_pct": -3.7861417146692076,
       "gap_date": "2026-10-15",
-      "days_waited": 10
+      "days_waited": 11
     },
     "TRV": {
       "gap_open": 370.0,
       "prior_close": 383.89,
       "gap_pct": -3.6182239704081867,
       "gap_date": "2026-10-16",
-      "days_waited": 9
+      "days_waited": 10
     },
     "LMT": {
       "gap_open": 540.97,
       "prior_close": 552.09,
       "gap_pct": -2.0141643572605923,
       "gap_date": "2026-10-19",
-      "days_waited": 8
+      "days_waited": 9
     },
     "CRM": {
       "gap_open": 235.75,
       "prior_close": 242.45,
       "gap_pct": -2.763456382759327,
       "gap_date": "2026-10-20",
-      "days_waited": 7
+      "days_waited": 8
     },
     "DHR": {
       "gap_open": 217.56,
       "prior_close": 224.24,
       "gap_pct": -2.9789511237959356,
       "gap_date": "2026-10-21",
-      "days_waited": 6
-    },
-    "DVA": {
-      "gap_open": 171.78,
-      "prior_close": 175.35,
-      "gap_pct": -2.035928143712571,
-      "gap_date": "2026-10-21",
-      "days_waited": 6
-    },
-    "DXCM": {
-      "gap_open": 83.75,
-      "prior_close": 85.74,
-      "gap_pct": -2.3209703755539945,
-      "gap_date": "2026-10-21",
-      "days_waited": 6
+      "days_waited": 7
     },
     "ISRG": {
       "gap_open": 402.495,
       "prior_close": 438.0,
       "gap_pct": -8.106164383561643,
       "gap_date": "2026-10-21",
-      "days_waited": 6
+      "days_waited": 7
     },
     "PM": {
       "gap_open": 187.14,
       "prior_close": 199.9,
       "gap_pct": -6.383191595797909,
       "gap_date": "2026-10-21",
-      "days_waited": 6
-    },
-    "ALB": {
-      "gap_open": 91.08,
-      "prior_close": 94.47,
-      "gap_pct": -3.588440774849159,
-      "gap_date": "2026-10-22",
-      "days_waited": 5
+      "days_waited": 7
     },
     "BX": {
       "gap_open": 107.32,
       "prior_close": 109.57,
       "gap_pct": -2.05348179246144,
       "gap_date": "2026-10-22",
-      "days_waited": 5
+      "days_waited": 6
     },
     "COIN": {
       "gap_open": 170.25,
       "prior_close": 177.08,
       "gap_pct": -3.8570137790829073,
       "gap_date": "2026-10-22",
-      "days_waited": 5
+      "days_waited": 6
     },
     "CCI": {
       "gap_open": 76.29,
       "prior_close": 78.65,
       "gap_pct": -3.000635727908454,
       "gap_date": "2026-10-22",
-      "days_waited": 5
+      "days_waited": 6
     },
     "IBM": {
       "gap_open": 241.245,
       "prior_close": 251.46,
       "gap_pct": -4.062276306370795,
       "gap_date": "2026-10-22",
-      "days_waited": 5
+      "days_waited": 6
     },
     "META": {
       "gap_open": 676.35,
       "prior_close": 697.52,
       "gap_pct": -3.0350384218373607,
       "gap_date": "2026-10-22",
-      "days_waited": 5
+      "days_waited": 6
     },
     "DGX": {
       "gap_open": 226.5,
       "prior_close": 238.93,
       "gap_pct": -5.202360524002849,
       "gap_date": "2026-10-22",
-      "days_waited": 5
+      "days_waited": 6
     },
     "ROL": {
       "gap_open": 31.84,
       "prior_close": 33.45,
       "gap_pct": -4.813153961136033,
       "gap_date": "2026-10-22",
-      "days_waited": 5
+      "days_waited": 6
     },
     "SWKS": {
       "gap_open": 80.45,
       "prior_close": 82.22,
       "gap_pct": -2.152760885429331,
       "gap_date": "2026-10-22",
-      "days_waited": 5
+      "days_waited": 6
     },
     "SNA": {
       "gap_open": 329.9,
       "prior_close": 368.91,
       "gap_pct": -10.574394838849596,
       "gap_date": "2026-10-22",
-      "days_waited": 5
+      "days_waited": 6
     },
     "TSCO": {
       "gap_open": 30.85,
       "prior_close": 32.69,
       "gap_pct": -5.62863260936065,
       "gap_date": "2026-10-22",
-      "days_waited": 5
+      "days_waited": 6
     },
     "UNP": {
       "gap_open": 280.1,
       "prior_close": 287.87,
       "gap_pct": -2.6991350262271103,
       "gap_date": "2026-10-22",
-      "days_waited": 5
+      "days_waited": 6
     },
     "VST": {
       "gap_open": 153.0,
       "prior_close": 156.14,
       "gap_pct": -2.011015755091576,
       "gap_date": "2026-10-22",
-      "days_waited": 5
-    },
-    "ACN": {
-      "gap_open": 252.01,
-      "prior_close": 258.74,
-      "gap_pct": -2.601066707892099,
-      "gap_date": "2026-10-23",
-      "days_waited": 4
+      "days_waited": 6
     },
     "EME": {
       "gap_open": 646.84,
       "prior_close": 660.41,
       "gap_pct": -2.054784149240614,
       "gap_date": "2026-10-23",
-      "days_waited": 4
-    },
-    "MGM": {
-      "gap_open": 28.88,
-      "prior_close": 29.5,
-      "gap_pct": -2.1016949152542406,
-      "gap_date": "2026-10-23",
-      "days_waited": 4
+      "days_waited": 5
     },
     "NCLH": {
       "gap_open": 14.93,
       "prior_close": 15.54,
       "gap_pct": -3.9253539253539222,
       "gap_date": "2026-10-23",
-      "days_waited": 4
+      "days_waited": 5
     },
     "LUV": {
       "gap_open": 41.01,
       "prior_close": 42.03,
       "gap_pct": -2.426837972876524,
       "gap_date": "2026-10-23",
-      "days_waited": 4
+      "days_waited": 5
     },
     "VRSN": {
       "gap_open": 292.23,
       "prior_close": 304.59,
       "gap_pct": -4.0579139170688325,
       "gap_date": "2026-10-23",
-      "days_waited": 4
+      "days_waited": 5
     },
     "EQT": {
       "gap_open": 52.73,
       "prior_close": 55.63,
       "gap_pct": -5.213014560488955,
       "gap_date": "2026-10-26",
-      "days_waited": 3
+      "days_waited": 4
     },
     "FICO": {
       "gap_open": 749.65,
       "prior_close": 815.31,
       "gap_pct": -8.05337846953919,
       "gap_date": "2026-10-26",
-      "days_waited": 3
+      "days_waited": 4
     },
     "BA": {
       "gap_open": 183.5,
       "prior_close": 188.31,
       "gap_pct": -2.554298762678563,
       "gap_date": "2026-10-27",
-      "days_waited": 2
+      "days_waited": 3
     },
     "HLT": {
       "gap_open": 340.62,
       "prior_close": 351.89,
       "gap_pct": -3.2027053908891934,
       "gap_date": "2026-10-27",
-      "days_waited": 2
-    },
-    "IQV": {
-      "gap_open": 267.5,
-      "prior_close": 273.6,
-      "gap_pct": -2.2295321637426984,
-      "gap_date": "2026-10-27",
-      "days_waited": 2
+      "days_waited": 3
     },
     "MRNA": {
       "gap_open": 192.23,
       "prior_close": 198.85,
       "gap_pct": -3.329142569776215,
       "gap_date": "2026-10-27",
-      "days_waited": 2
+      "days_waited": 3
     },
     "PFG": {
       "gap_open": 107.83,
       "prior_close": 110.13,
       "gap_pct": -2.088440933442293,
       "gap_date": "2026-10-27",
-      "days_waited": 2
+      "days_waited": 3
     },
     "SHW": {
       "gap_open": 315.645,
       "prior_close": 335.16,
       "gap_pct": -5.822592194772659,
       "gap_date": "2026-10-27",
-      "days_waited": 2
+      "days_waited": 3
     },
     "XYL": {
       "gap_open": 102.0,
       "prior_close": 108.24,
       "gap_pct": -5.764966740576492,
       "gap_date": "2026-10-27",
-      "days_waited": 2
+      "days_waited": 3
     },
     "BKR": {
       "gap_open": 56.785,
       "prior_close": 59.0,
       "gap_pct": -3.754237288135599,
       "gap_date": "2026-10-28",
-      "days_waited": 1
+      "days_waited": 2
     },
     "BIIB": {
       "gap_open": 244.93,
       "prior_close": 252.73,
       "gap_pct": -3.0862976298816855,
       "gap_date": "2026-10-28",
-      "days_waited": 1
+      "days_waited": 2
     },
     "CHRW": {
       "gap_open": 133.18,
       "prior_close": 143.59,
       "gap_pct": -7.24980848248485,
       "gap_date": "2026-10-28",
-      "days_waited": 1
-    },
-    "CSGP": {
-      "gap_open": 30.0,
-      "prior_close": 32.01,
-      "gap_pct": -6.2792877225866865,
-      "gap_date": "2026-10-28",
-      "days_waited": 1
+      "days_waited": 2
     },
     "FFIV": {
       "gap_open": 421.305,
       "prior_close": 459.36,
       "gap_pct": -8.284352142110764,
       "gap_date": "2026-10-28",
-      "days_waited": 1
-    },
-    "GRMN": {
-      "gap_open": 283.14,
-      "prior_close": 289.34,
-      "gap_pct": -2.142807769406231,
-      "gap_date": "2026-10-28",
-      "days_waited": 1
+      "days_waited": 2
     },
     "IP": {
       "gap_open": 31.15,
       "prior_close": 33.38,
       "gap_pct": -6.680647094068316,
       "gap_date": "2026-10-28",
-      "days_waited": 1
-    },
-    "LII": {
-      "gap_open": 348.9,
-      "prior_close": 372.05,
-      "gap_pct": -6.222281951350634,
-      "gap_date": "2026-10-28",
-      "days_waited": 1
+      "days_waited": 2
     },
     "NXPI": {
       "gap_open": 238.14,
       "prior_close": 253.5,
       "gap_pct": -6.059171597633141,
       "gap_date": "2026-10-28",
-      "days_waited": 1
+      "days_waited": 2
     },
     "ON": {
       "gap_open": 76.6,
       "prior_close": 78.67,
       "gap_pct": -2.6312444387949756,
       "gap_date": "2026-10-28",
-      "days_waited": 1
+      "days_waited": 2
     },
     "NOW": {
       "gap_open": 151.6,
       "prior_close": 154.78,
       "gap_pct": -2.054529008915885,
       "gap_date": "2026-10-28",
-      "days_waited": 1
+      "days_waited": 2
     },
     "SW": {
       "gap_open": 40.05,
       "prior_close": 42.54,
       "gap_pct": -5.853314527503531,
       "gap_date": "2026-10-28",
-      "days_waited": 1
+      "days_waited": 2
     },
     "VTR": {
       "gap_open": 80.42,
       "prior_close": 83.34,
       "gap_pct": -3.5037197024238083,
       "gap_date": "2026-10-28",
-      "days_waited": 1
+      "days_waited": 2
     },
     "WM": {
       "gap_open": 227.62,
       "prior_close": 235.81,
       "gap_pct": -3.4731351511810344,
       "gap_date": "2026-10-28",
-      "days_waited": 1
+      "days_waited": 2
     },
     "AMD": {
       "gap_open": 562.27,
       "prior_close": 578.44,
       "gap_pct": -2.7954498305788102,
       "gap_date": "2026-10-29",
-      "days_waited": 0
-    },
-    "AKAM": {
-      "gap_open": 95.71,
-      "prior_close": 98.1,
-      "gap_pct": -2.4362895005096847,
-      "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "GOOGL": {
       "gap_open": 286.875,
       "prior_close": 324.89,
       "gap_pct": -11.700883375911843,
       "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "GOOG": {
       "gap_open": 283.84,
       "prior_close": 321.89,
       "gap_pct": -11.820808350678808,
       "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "AMZN": {
       "gap_open": 246.95,
       "prior_close": 254.6,
       "gap_pct": -3.0047132757266324,
       "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "AMP": {
       "gap_open": 478.805,
       "prior_close": 489.8,
       "gap_pct": -2.244793793385056,
       "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "AVGO": {
       "gap_open": 342.0,
       "prior_close": 351.81,
       "gap_pct": -2.7884369403939635,
       "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "BG": {
       "gap_open": 98.5,
       "prior_close": 100.8,
       "gap_pct": -2.281746031746029,
       "gap_date": "2026-10-29",
-      "days_waited": 0
-    },
-    "CARR": {
-      "gap_open": 53.5,
-      "prior_close": 56.27,
-      "gap_pct": -4.9226941531899815,
-      "gap_date": "2026-10-29",
-      "days_waited": 0
-    },
-    "CAT": {
-      "gap_open": 636.33,
-      "prior_close": 713.38,
-      "gap_pct": -10.800695281617084,
-      "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "CIEN": {
       "gap_open": 348.6,
       "prior_close": 363.21,
       "gap_pct": -4.022466341785732,
       "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "CTSH": {
       "gap_open": 62.35,
       "prior_close": 66.36,
       "gap_pct": -6.042796865581672,
       "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "CRH": {
       "gap_open": 84.05,
       "prior_close": 86.54,
       "gap_pct": -2.877282181650114,
       "gap_date": "2026-10-29",
-      "days_waited": 0
-    },
-    "CRWD": {
-      "gap_open": 254.335,
-      "prior_close": 266.66,
-      "gap_pct": -4.62199054976375,
-      "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "CMI": {
       "gap_open": 513.0,
       "prior_close": 531.39,
       "gap_pct": -3.4607350533506445,
       "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "DDOG": {
       "gap_open": 269.55,
       "prior_close": 278.41,
       "gap_pct": -3.1823569555691296,
       "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "FCX": {
       "gap_open": 65.24,
       "prior_close": 66.6,
       "gap_pct": -2.0420420420420413,
       "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "GDDY": {
       "gap_open": 100.01,
       "prior_close": 106.54,
       "gap_pct": -6.129153369626432,
       "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "HONA": {
       "gap_open": 166.175,
       "prior_close": 177.03,
       "gap_pct": -6.131729085465734,
       "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "INCY": {
       "gap_open": 111.64,
       "prior_close": 116.87,
       "gap_pct": -4.475057756481564,
       "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "INTU": {
       "gap_open": 320.97,
       "prior_close": 328.19,
       "gap_pct": -2.19994515372192,
       "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "MRVL": {
       "gap_open": 223.0,
       "prior_close": 251.65,
       "gap_pct": -11.384859924498313,
       "gap_date": "2026-10-29",
-      "days_waited": 0
-    },
-    "PANW": {
-      "gap_open": 368.83,
-      "prior_close": 394.49,
-      "gap_pct": -6.504600877081808,
-      "gap_date": "2026-10-29",
-      "days_waited": 0
+      "days_waited": 1
     },
     "RDDT": {
       "gap_open": 129.95,
       "prior_close": 134.7,
       "gap_pct": -3.526354862657758,
       "gap_date": "2026-10-29",
+      "days_waited": 1
+    },
+    "APH": {
+      "gap_open": 78.905,
+      "prior_close": 82.08,
+      "gap_pct": -3.8681773879142267,
+      "gap_date": "2026-10-30",
       "days_waited": 0
     },
-    "TT": {
-      "gap_open": 421.7,
-      "prior_close": 448.47,
-      "gap_pct": -5.9691841148794875,
-      "gap_date": "2026-10-29",
+    "APP": {
+      "gap_open": 242.08,
+      "prior_close": 254.91,
+      "gap_pct": -5.033148954532966,
+      "gap_date": "2026-10-30",
       "days_waited": 0
     },
-    "VRT": {
-      "gap_open": 237.96,
-      "prior_close": 242.94,
-      "gap_pct": -2.0498888614472666,
-      "gap_date": "2026-10-29",
+    "CDNS": {
+      "gap_open": 334.81,
+      "prior_close": 342.75,
+      "gap_pct": -2.316557257476294,
+      "gap_date": "2026-10-30",
       "days_waited": 0
     },
-    "WDAY": {
-      "gap_open": 196.69,
-      "prior_close": 204.36,
-      "gap_pct": -3.753180661577616,
-      "gap_date": "2026-10-29",
+    "CDW": {
+      "gap_open": 156.185,
+      "prior_close": 165.2,
+      "gap_pct": -5.457021791767547,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "FIX": {
+      "gap_open": 1237.83,
+      "prior_close": 1326.23,
+      "gap_pct": -6.66551050722726,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "GLW": {
+      "gap_open": 121.505,
+      "prior_close": 128.88,
+      "gap_pct": -5.722377405338299,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "ETN": {
+      "gap_open": 373.65,
+      "prior_close": 393.72,
+      "gap_pct": -5.097531240475477,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "ECHO": {
+      "gap_open": 94.75,
+      "prior_close": 97.66,
+      "gap_pct": -2.9797255785377805,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "FSLR": {
+      "gap_open": 168.05,
+      "prior_close": 176.89,
+      "gap_pct": -4.99745604613035,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "GEV": {
+      "gap_open": 850.0,
+      "prior_close": 887.85,
+      "gap_pct": -4.263107506898691,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "GS": {
+      "gap_open": 905.1,
+      "prior_close": 927.73,
+      "gap_pct": -2.4392872926390217,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "HWM": {
+      "gap_open": 201.47,
+      "prior_close": 205.94,
+      "gap_pct": -2.170535107312809,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "HPQ": {
+      "gap_open": 27.3,
+      "prior_close": 31.83,
+      "gap_pct": -14.231856738925536,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "HUBB": {
+      "gap_open": 429.0,
+      "prior_close": 438.23,
+      "gap_pct": -2.1061999406704284,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "IBKR": {
+      "gap_open": 78.89,
+      "prior_close": 81.77,
+      "gap_pct": -3.5220741103093993,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "JCI": {
+      "gap_open": 153.89,
+      "prior_close": 158.27,
+      "gap_pct": -2.76742275857713,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "LITE": {
+      "gap_open": 861.28,
+      "prior_close": 919.53,
+      "gap_pct": -6.334757974182463,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "MCHP": {
+      "gap_open": 78.465,
+      "prior_close": 81.12,
+      "gap_pct": -3.2729289940828417,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "MPWR": {
+      "gap_open": 1173.995,
+      "prior_close": 1198.81,
+      "gap_pct": -2.0699693863080935,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "MS": {
+      "gap_open": 185.85,
+      "prior_close": 190.0,
+      "gap_pct": -2.1842105263157925,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "NEM": {
+      "gap_open": 107.35,
+      "prior_close": 111.8,
+      "gap_pct": -3.98032200357782,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "NVDA": {
+      "gap_open": 208.94,
+      "prior_close": 213.66,
+      "gap_pct": -2.209117289150987,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "ORCL": {
+      "gap_open": 133.62,
+      "prior_close": 139.56,
+      "gap_pct": -4.256233877901976,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "PWR": {
+      "gap_open": 608.0,
+      "prior_close": 635.18,
+      "gap_pct": -4.279101986838369,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "QCOM": {
+      "gap_open": 174.82,
+      "prior_close": 185.41,
+      "gap_pct": -5.711666037430561,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "Q": {
+      "gap_open": 116.66,
+      "prior_close": 122.66,
+      "gap_pct": -4.891570194032284,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "RMD": {
+      "gap_open": 246.56,
+      "prior_close": 252.83,
+      "gap_pct": -2.4799272238262904,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "ROK": {
+      "gap_open": 441.6,
+      "prior_close": 451.4,
+      "gap_pct": -2.171023482498882,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "SYK": {
+      "gap_open": 287.97,
+      "prior_close": 311.75,
+      "gap_pct": -7.6279069767441765,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "SNPS": {
+      "gap_open": 477.01,
+      "prior_close": 490.19,
+      "gap_pct": -2.688753340541424,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "TSLA": {
+      "gap_open": 393.22,
+      "prior_close": 403.3,
+      "gap_pct": -2.4993801140590093,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "WDC": {
+      "gap_open": 366.84,
+      "prior_close": 395.41,
+      "gap_pct": -7.2254115980880735,
+      "gap_date": "2026-10-30",
+      "days_waited": 0
+    },
+    "ZBRA": {
+      "gap_open": 369.3,
+      "prior_close": 377.38,
+      "gap_pct": -2.141077958556358,
+      "gap_date": "2026-10-30",
       "days_waited": 0
     }
   },
-  "last_run_date": "2026-10-29"
+  "last_run_date": "2026-10-30"
 }
