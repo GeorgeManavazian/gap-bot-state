@@ -15,3 +15,7 @@
 {"date": "2026-10-28", "cash": 68358.41, "equity": 100454.94, "n_open": 3, "n_pending": 91}
 {"date": "2026-10-29", "cash": 68358.41, "equity": 100631.83, "n_open": 3, "n_pending": 107}
 {"date": "2026-10-30", "cash": 68358.41, "equity": 101809.25, "n_open": 3, "n_pending": 122}
+{"date": "2026-11-02", "cash": 45680.21, "equity": 101608.08, "n_open": 5, "n_pending": 113}
+{"date": "2026-11-03", "cash": 45680.21, "equity": 101270.7, "n_open": 5, "n_pending": 115}
+{"date": "2026-11-04", "cash": 46265.29, "equity": 102762.48, "n_open": 5, "n_pending": 121}
+{"date": "2026-11-05", "cash": 46265.29, "equity": 101886.05, "n_open": 5, "n_pending": 135}
