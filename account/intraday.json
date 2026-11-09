@@ -1,8 +1,8 @@
 {
-  "polled_at": "2026-11-09T15:57:03-0500",
+  "polled_at": "2026-11-09T16:00:02-0500",
   "session": "2026-11-09",
   "profile": "ramp",
-  "equity": 102450.89,
+  "equity": 102433.81,
   "slot_limit": 9,
   "equity_series": [
     {
@@ -1552,20 +1552,30 @@
     {
       "t": "2026-11-09T15:57:03-0500",
       "equity": 102450.89
+    },
+    {
+      "t": "2026-11-09T15:58:02-0500",
+      "equity": 102441.85
+    },
+    {
+      "t": "2026-11-09T15:59:03-0500",
+      "equity": 102442.38
+    },
+    {
+      "t": "2026-11-09T16:00:02-0500",
+      "equity": 102433.81
     }
   ],
   "exits": [],
-  "entries": [
-    "FIX"
-  ],
+  "entries": [],
   "watched": {
     "T": {
       "kind": "open",
       "stop": 11.2012,
       "tp": 24.87,
-      "h": 21.76,
+      "h": 21.81,
       "l": 21.53,
-      "last": 21.755
+      "last": 21.805
     },
     "TMUS": {
       "kind": "open",
@@ -1573,23 +1583,23 @@
       "tp": 171.31,
       "h": 169.255,
       "l": 161.549,
-      "last": 168.8
+      "last": 168.71
     },
     "GOOG": {
       "kind": "open",
       "stop": 142.0619,
       "tp": 321.89,
       "h": 294.69,
-      "l": 286.18,
-      "last": 286.29
+      "l": 285.94,
+      "last": 286.01
     },
     "GOOGL": {
       "kind": "open",
       "stop": 143.5809,
       "tp": 324.89,
       "h": 296.33,
-      "l": 288.31,
-      "last": 288.45
+      "l": 288.01,
+      "last": 288.21
     },
     "IT": {
       "kind": "open",
@@ -1597,15 +1607,15 @@
       "tp": 235.26,
       "h": 191.56,
       "l": 187.98,
-      "last": 191.015
+      "last": 190.93
     },
     "FIX": {
       "kind": "open",
       "stop": 558.0575,
       "tp": 1285.13,
-      "h": 1115.33,
+      "h": 1115.76,
       "l": 1041.83,
-      "last": 1114.26
+      "last": 1113.27
     },
     "CCL": {
       "kind": "pending",
@@ -1614,7 +1624,7 @@
       "consumed_on": null,
       "h": 31.31,
       "l": 30.42,
-      "last": 30.86
+      "last": 30.815
     },
     "HSIC": {
       "kind": "pending",
@@ -1623,7 +1633,7 @@
       "consumed_on": null,
       "h": 88.89,
       "l": 86.26,
-      "last": 88.56
+      "last": 88.41
     },
     "INTC": {
       "kind": "pending",
@@ -1632,7 +1642,7 @@
       "consumed_on": null,
       "h": 60.03,
       "l": 55.83,
-      "last": 59.36
+      "last": 59.32
     },
     "SMCI": {
       "kind": "pending",
@@ -1641,7 +1651,7 @@
       "consumed_on": null,
       "h": 29.73,
       "l": 27.18,
-      "last": 28.6201
+      "last": 28.6
     },
     "CVS": {
       "kind": "pending",
@@ -1650,7 +1660,7 @@
       "consumed_on": null,
       "h": 85.75,
       "l": 83.8301,
-      "last": 85.055
+      "last": 85.25
     },
     "ADBE": {
       "kind": "pending",
@@ -1659,7 +1669,7 @@
       "consumed_on": null,
       "h": 240.5,
       "l": 236.08,
-      "last": 237.49
+      "last": 237.32
     },
     "COHR": {
       "kind": "pending",
@@ -1668,7 +1678,7 @@
       "consumed_on": null,
       "h": 229.48,
       "l": 197.19,
-      "last": 224.73
+      "last": 224.8
     },
     "MU": {
       "kind": "pending",
@@ -1677,7 +1687,7 @@
       "consumed_on": null,
       "h": 744.74,
       "l": 689.65,
-      "last": 733.37
+      "last": 733.0
     },
     "SNDK": {
       "kind": "pending",
@@ -1686,7 +1696,7 @@
       "consumed_on": null,
       "h": 904.0,
       "l": 830.644,
-      "last": 886.24
+      "last": 886.51
     },
     "STX": {
       "kind": "pending",
@@ -1695,7 +1705,7 @@
       "consumed_on": null,
       "h": 512.5099,
       "l": 466.16,
-      "last": 506.56
+      "last": 506.14
     },
     "TER": {
       "kind": "pending",
@@ -1704,7 +1714,7 @@
       "consumed_on": null,
       "h": 247.475,
       "l": 222.47,
-      "last": 245.77
+      "last": 246.0
     },
     "AMAT": {
       "kind": "pending",
@@ -1713,7 +1723,7 @@
       "consumed_on": null,
       "h": 375.53,
       "l": 342.98,
-      "last": 370.67
+      "last": 370.55
     },
     "ANET": {
       "kind": "pending",
@@ -1722,7 +1732,7 @@
       "consumed_on": null,
       "h": 188.2,
       "l": 176.25,
-      "last": 186.5
+      "last": 186.23
     },
     "DELL": {
       "kind": "pending",
@@ -1731,7 +1741,7 @@
       "consumed_on": null,
       "h": 354.4979,
       "l": 328.3,
-      "last": 347.08
+      "last": 346.04
     },
     "GNRC": {
       "kind": "pending",
@@ -1740,7 +1750,7 @@
       "consumed_on": null,
       "h": 191.82,
       "l": 180.88,
-      "last": 189.13
+      "last": 188.83
     },
     "HPE": {
       "kind": "pending",
@@ -1749,7 +1759,7 @@
       "consumed_on": null,
       "h": 48.8,
       "l": 45.4004,
-      "last": 47.655
+      "last": 47.56
     },
     "KLAC": {
       "kind": "pending",
@@ -1758,7 +1768,7 @@
       "consumed_on": null,
       "h": 152.95,
       "l": 141.51,
-      "last": 151.56
+      "last": 151.38
     },
     "LRCX": {
       "kind": "pending",
@@ -1767,7 +1777,7 @@
       "consumed_on": null,
       "h": 222.64,
       "l": 203.765,
-      "last": 221.415
+      "last": 221.31
     },
     "FAST": {
       "kind": "pending",
@@ -1776,7 +1786,7 @@
       "consumed_on": null,
       "h": 54.99,
       "l": 53.3,
-      "last": 54.67
+      "last": 54.57
     },
     "FLEX": {
       "kind": "pending",
@@ -1785,7 +1795,7 @@
       "consumed_on": null,
       "h": 79.84,
       "l": 72.18,
-      "last": 78.055
+      "last": 78.17
     },
     "FTNT": {
       "kind": "pending",
@@ -1794,7 +1804,7 @@
       "consumed_on": null,
       "h": 123.3,
       "l": 119.485,
-      "last": 122.56
+      "last": 122.47
     },
     "JBL": {
       "kind": "pending",
@@ -1803,7 +1813,7 @@
       "consumed_on": null,
       "h": 254.05,
       "l": 241.05,
-      "last": 252.96
+      "last": 252.52
     },
     "NTAP": {
       "kind": "pending",
@@ -1812,7 +1822,7 @@
       "consumed_on": null,
       "h": 178.72,
       "l": 168.21,
-      "last": 175.92
+      "last": 176.07
     },
     "PGR": {
       "kind": "pending",
@@ -1821,7 +1831,7 @@
       "consumed_on": null,
       "h": 229.5,
       "l": 224.71,
-      "last": 227.85
+      "last": 227.58
     },
     "HOOD": {
       "kind": "pending",
@@ -1830,7 +1840,7 @@
       "consumed_on": null,
       "h": 85.34,
       "l": 80.55,
-      "last": 83.47
+      "last": 83.32
     },
     "STT": {
       "kind": "pending",
@@ -1839,7 +1849,7 @@
       "consumed_on": null,
       "h": 172.48,
       "l": 168.14,
-      "last": 171.37
+      "last": 170.96
     },
     "KEYS": {
       "kind": "pending",
@@ -1848,7 +1858,7 @@
       "consumed_on": null,
       "h": 292.065,
       "l": 275.765,
-      "last": 289.17
+      "last": 289.1
     },
     "TRV": {
       "kind": "pending",
@@ -1857,16 +1867,16 @@
       "consumed_on": null,
       "h": 402.2103,
       "l": 389.86,
-      "last": 394.745
+      "last": 395.56
     },
     "LMT": {
       "kind": "pending",
       "gap_open": 540.97,
       "gap_date": "2026-10-19",
       "consumed_on": null,
-      "h": 588.91,
+      "h": 589.81,
       "l": 566.27,
-      "last": 588.43
+      "last": 588.3
     },
     "CRM": {
       "kind": "pending",
@@ -1875,7 +1885,7 @@
       "consumed_on": null,
       "h": 217.45,
       "l": 213.79,
-      "last": 214.41
+      "last": 214.88
     },
     "DHR": {
       "kind": "pending",
@@ -1884,7 +1894,7 @@
       "consumed_on": null,
       "h": 236.6618,
       "l": 228.37,
-      "last": 235.7425
+      "last": 235.19
     },
     "ISRG": {
       "kind": "pending",
@@ -1893,7 +1903,7 @@
       "consumed_on": null,
       "h": 463.0,
       "l": 454.04,
-      "last": 461.335
+      "last": 460.56
     },
     "PM": {
       "kind": "pending",
@@ -1902,7 +1912,7 @@
       "consumed_on": null,
       "h": 199.105,
       "l": 192.255,
-      "last": 193.423
+      "last": 193.12
     },
     "BX": {
       "kind": "pending",
@@ -1911,7 +1921,7 @@
       "consumed_on": null,
       "h": 125.38,
       "l": 120.77,
-      "last": 124.345
+      "last": 124.08
     },
     "COIN": {
       "kind": "pending",
@@ -1920,7 +1930,7 @@
       "consumed_on": null,
       "h": 139.75,
       "l": 131.1,
-      "last": 136.645
+      "last": 136.1
     },
     "CCI": {
       "kind": "pending",
@@ -1929,7 +1939,7 @@
       "consumed_on": null,
       "h": 89.21,
       "l": 87.615,
-      "last": 88.19
+      "last": 87.84
     },
     "META": {
       "kind": "pending",
@@ -1938,7 +1948,7 @@
       "consumed_on": null,
       "h": 647.25,
       "l": 630.0,
-      "last": 641.565
+      "last": 641.37
     },
     "DGX": {
       "kind": "pending",
@@ -1947,7 +1957,7 @@
       "consumed_on": null,
       "h": 259.84,
       "l": 255.0781,
-      "last": 259.33
+      "last": 259.68
     },
     "ROL": {
       "kind": "pending",
@@ -1956,7 +1966,7 @@
       "consumed_on": null,
       "h": 38.85,
       "l": 37.9,
-      "last": 38.72
+      "last": 38.74
     },
     "SNA": {
       "kind": "pending",
@@ -1965,7 +1975,7 @@
       "consumed_on": null,
       "h": 377.49,
       "l": 368.41,
-      "last": 373.81
+      "last": 374.01
     },
     "TSCO": {
       "kind": "pending",
@@ -1974,7 +1984,7 @@
       "consumed_on": null,
       "h": 37.72,
       "l": 36.755,
-      "last": 37.335
+      "last": 37.4
     },
     "UNP": {
       "kind": "pending",
@@ -1983,7 +1993,7 @@
       "consumed_on": null,
       "h": 297.42,
       "l": 290.49,
-      "last": 297.28
+      "last": 297.69
     },
     "VST": {
       "kind": "pending",
@@ -2001,7 +2011,7 @@
       "consumed_on": null,
       "h": 18.74,
       "l": 18.27,
-      "last": 18.505
+      "last": 18.42
     },
     "LUV": {
       "kind": "pending",
@@ -2010,7 +2020,7 @@
       "consumed_on": null,
       "h": 47.01,
       "l": 45.85,
-      "last": 46.255
+      "last": 46.3
     },
     "VRSN": {
       "kind": "pending",
@@ -2019,7 +2029,7 @@
       "consumed_on": null,
       "h": 311.2824,
       "l": 302.18,
-      "last": 305.57
+      "last": 305.84
     },
     "BA": {
       "kind": "pending",
@@ -2028,7 +2038,7 @@
       "consumed_on": null,
       "h": 177.39,
       "l": 168.89,
-      "last": 172.435
+      "last": 172.41
     },
     "HLT": {
       "kind": "pending",
@@ -2037,7 +2047,7 @@
       "consumed_on": null,
       "h": 377.0,
       "l": 371.495,
-      "last": 373.12
+      "last": 373.23
     },
     "MRNA": {
       "kind": "pending",
@@ -2046,7 +2056,7 @@
       "consumed_on": null,
       "h": 280.8,
       "l": 253.33,
-      "last": 269.65
+      "last": 269.14
     },
     "PFG": {
       "kind": "pending",
@@ -2055,7 +2065,7 @@
       "consumed_on": null,
       "h": 115.805,
       "l": 112.275,
-      "last": 115.34
+      "last": 115.39
     },
     "SHW": {
       "kind": "pending",
@@ -2064,7 +2074,7 @@
       "consumed_on": null,
       "h": 361.0,
       "l": 349.01,
-      "last": 357.82
+      "last": 357.93
     },
     "BKR": {
       "kind": "pending",
@@ -2073,7 +2083,7 @@
       "consumed_on": null,
       "h": 49.02,
       "l": 47.61,
-      "last": 48.685
+      "last": 48.45
     },
     "FFIV": {
       "kind": "pending",
@@ -2082,7 +2092,7 @@
       "consumed_on": null,
       "h": 321.905,
       "l": 311.37,
-      "last": 317.52
+      "last": 317.75
     },
     "IP": {
       "kind": "pending",
@@ -2091,7 +2101,7 @@
       "consumed_on": null,
       "h": 35.9,
       "l": 34.78,
-      "last": 35.46
+      "last": 35.52
     },
     "NXPI": {
       "kind": "pending",
@@ -2100,7 +2110,7 @@
       "consumed_on": null,
       "h": 261.99,
       "l": 247.03,
-      "last": 256.45
+      "last": 256.42
     },
     "ON": {
       "kind": "pending",
@@ -2109,7 +2119,7 @@
       "consumed_on": null,
       "h": 70.05,
       "l": 64.0,
-      "last": 69.115
+      "last": 69.11
     },
     "NOW": {
       "kind": "pending",
@@ -2118,7 +2128,7 @@
       "consumed_on": null,
       "h": 104.519,
       "l": 101.5,
-      "last": 103.055
+      "last": 102.76
     },
     "SW": {
       "kind": "pending",
@@ -2127,7 +2137,7 @@
       "consumed_on": null,
       "h": 45.56,
       "l": 44.07,
-      "last": 44.29
+      "last": 44.2
     },
     "VTR": {
       "kind": "pending",
@@ -2136,7 +2146,7 @@
       "consumed_on": null,
       "h": 89.8,
       "l": 88.34,
-      "last": 89.56
+      "last": 89.51
     },
     "WM": {
       "kind": "pending",
@@ -2145,7 +2155,7 @@
       "consumed_on": null,
       "h": 237.44,
       "l": 234.01,
-      "last": 236.88
+      "last": 237.04
     },
     "AMD": {
       "kind": "pending",
@@ -2154,7 +2164,7 @@
       "consumed_on": null,
       "h": 515.18,
       "l": 468.21,
-      "last": 509.04
+      "last": 508.58
     },
     "AMP": {
       "kind": "pending",
@@ -2163,7 +2173,7 @@
       "consumed_on": null,
       "h": 522.11,
       "l": 506.53,
-      "last": 519.1
+      "last": 518.29
     },
     "AVGO": {
       "kind": "pending",
@@ -2172,7 +2182,7 @@
       "consumed_on": null,
       "h": 323.05,
       "l": 304.292,
-      "last": 319.74
+      "last": 319.48
     },
     "CIEN": {
       "kind": "pending",
@@ -2181,7 +2191,7 @@
       "consumed_on": null,
       "h": 273.36,
       "l": 252.0,
-      "last": 270.3825
+      "last": 269.32
     },
     "CTSH": {
       "kind": "pending",
@@ -2199,7 +2209,7 @@
       "consumed_on": null,
       "h": 99.01,
       "l": 95.81,
-      "last": 97.655
+      "last": 97.73
     },
     "DDOG": {
       "kind": "pending",
@@ -2208,7 +2218,7 @@
       "consumed_on": null,
       "h": 181.8995,
       "l": 176.51,
-      "last": 179.935
+      "last": 179.62
     },
     "GDDY": {
       "kind": "pending",
@@ -2217,7 +2227,7 @@
       "consumed_on": null,
       "h": 116.03,
       "l": 111.39,
-      "last": 111.61
+      "last": 111.72
     },
     "HONA": {
       "kind": "pending",
@@ -2226,7 +2236,7 @@
       "consumed_on": "2026-11-09",
       "h": 167.3,
       "l": 154.445,
-      "last": 164.75
+      "last": 164.77
     },
     "INCY": {
       "kind": "pending",
@@ -2235,7 +2245,7 @@
       "consumed_on": null,
       "h": 122.07,
       "l": 118.26,
-      "last": 121.93
+      "last": 121.89
     },
     "INTU": {
       "kind": "pending",
@@ -2244,7 +2254,7 @@
       "consumed_on": null,
       "h": 343.87,
       "l": 334.42,
-      "last": 338.09
+      "last": 338.23
     },
     "MRVL": {
       "kind": "pending",
@@ -2253,16 +2263,16 @@
       "consumed_on": null,
       "h": 157.68,
       "l": 142.25,
-      "last": 153.91
+      "last": 154.6
     },
     "RDDT": {
       "kind": "pending",
       "gap_open": 129.95,
       "gap_date": "2026-10-29",
       "consumed_on": null,
-      "h": 101.19,
+      "h": 101.405,
       "l": 94.1001,
-      "last": 100.76
+      "last": 100.57
     },
     "CDNS": {
       "kind": "pending",
@@ -2271,7 +2281,7 @@
       "consumed_on": "2026-11-09",
       "h": 339.225,
       "l": 321.9301,
-      "last": 336.58
+      "last": 336.53
     },
     "FSLR": {
       "kind": "pending",
@@ -2280,7 +2290,7 @@
       "consumed_on": null,
       "h": 198.01,
       "l": 187.09,
-      "last": 191.33
+      "last": 191.61
     },
     "HPQ": {
       "kind": "pending",
@@ -2288,8 +2298,8 @@
       "gap_date": "2026-10-30",
       "consumed_on": null,
       "h": 29.03,
-      "l": 28.34,
-      "last": 28.385
+      "l": 28.245,
+      "last": 28.275
     },
     "JCI": {
       "kind": "pending",
@@ -2298,7 +2308,7 @@
       "consumed_on": null,
       "h": 142.585,
       "l": 137.425,
-      "last": 141.72
+      "last": 141.49
     },
     "LITE": {
       "kind": "pending",
@@ -2307,7 +2317,7 @@
       "consumed_on": null,
       "h": 616.66,
       "l": 545.01,
-      "last": 596.12
+      "last": 596.61
     },
     "ORCL": {
       "kind": "pending",
@@ -2316,7 +2326,7 @@
       "consumed_on": null,
       "h": 120.26,
       "l": 114.91,
-      "last": 120.1
+      "last": 119.81
     },
     "QCOM": {
       "kind": "pending",
@@ -2325,7 +2335,7 @@
       "consumed_on": "2026-11-09",
       "h": 176.28,
       "l": 163.29,
-      "last": 171.575
+      "last": 171.47
     },
     "SYK": {
       "kind": "pending",
@@ -2334,7 +2344,7 @@
       "consumed_on": null,
       "h": 330.33,
       "l": 324.66,
-      "last": 326.35
+      "last": 325.73
     },
     "SNPS": {
       "kind": "pending",
@@ -2343,7 +2353,7 @@
       "consumed_on": null,
       "h": 470.345,
       "l": 451.06,
-      "last": 467.02
+      "last": 466.97
     },
     "TSLA": {
       "kind": "pending",
@@ -2352,7 +2362,7 @@
       "consumed_on": null,
       "h": 382.2,
       "l": 360.02,
-      "last": 378.92
+      "last": 378.05
     },
     "APA": {
       "kind": "pending",
@@ -2361,7 +2371,7 @@
       "consumed_on": null,
       "h": 44.9,
       "l": 43.43,
-      "last": 44.475
+      "last": 44.55
     },
     "DVN": {
       "kind": "pending",
@@ -2370,7 +2380,7 @@
       "consumed_on": null,
       "h": 42.53,
       "l": 41.29,
-      "last": 42.365
+      "last": 42.42
     },
     "OKE": {
       "kind": "pending",
@@ -2379,7 +2389,7 @@
       "consumed_on": null,
       "h": 86.5395,
       "l": 84.38,
-      "last": 86.09
+      "last": 85.98
     },
     "OXY": {
       "kind": "pending",
@@ -2388,7 +2398,7 @@
       "consumed_on": null,
       "h": 56.195,
       "l": 54.97,
-      "last": 55.935
+      "last": 55.89
     },
     "ACN": {
       "kind": "pending",
@@ -2397,7 +2407,7 @@
       "consumed_on": "2026-11-09",
       "h": 262.145,
       "l": 253.89,
-      "last": 254.945
+      "last": 254.3801
     },
     "BR": {
       "kind": "pending",
@@ -2406,7 +2416,7 @@
       "consumed_on": null,
       "h": 192.68,
       "l": 190.005,
-      "last": 192.14
+      "last": 192.37
     },
     "KDP": {
       "kind": "pending",
@@ -2415,7 +2425,7 @@
       "consumed_on": null,
       "h": 37.02,
       "l": 36.27,
-      "last": 36.955
+      "last": 36.94
     },
     "SBAC": {
       "kind": "pending",
@@ -2424,7 +2434,7 @@
       "consumed_on": null,
       "h": 191.49,
       "l": 188.08,
-      "last": 190.21
+      "last": 190.35
     },
     "ZBRA": {
       "kind": "pending",
@@ -2433,16 +2443,16 @@
       "consumed_on": null,
       "h": 332.41,
       "l": 323.78,
-      "last": 326.48
+      "last": 326.71
     },
     "CAT": {
       "kind": "pending",
       "gap_open": 609.45,
       "gap_date": "2026-11-04",
       "consumed_on": null,
-      "h": 599.523,
+      "h": 599.78,
       "l": 572.05,
-      "last": 598.205
+      "last": 597.31
     },
     "ETN": {
       "kind": "pending",
@@ -2451,7 +2461,7 @@
       "consumed_on": null,
       "h": 363.41,
       "l": 345.28,
-      "last": 359.84
+      "last": 359.43
     },
     "FIS": {
       "kind": "pending",
@@ -2469,7 +2479,7 @@
       "consumed_on": null,
       "h": 305.5,
       "l": 293.21,
-      "last": 304.555
+      "last": 304.52
     },
     "LHX": {
       "kind": "pending",
@@ -2478,7 +2488,7 @@
       "consumed_on": "2026-11-09",
       "h": 273.05,
       "l": 260.98,
-      "last": 271.26
+      "last": 271.54
     },
     "MPC": {
       "kind": "pending",
@@ -2487,7 +2497,7 @@
       "consumed_on": null,
       "h": 392.0563,
       "l": 370.05,
-      "last": 390.085
+      "last": 389.6801
     },
     "NRG": {
       "kind": "pending",
@@ -2496,7 +2506,7 @@
       "consumed_on": "2026-11-09",
       "h": 98.14,
       "l": 90.23,
-      "last": 97.625
+      "last": 97.5
     },
     "TPL": {
       "kind": "pending",
@@ -2505,7 +2515,7 @@
       "consumed_on": null,
       "h": 285.8399,
       "l": 268.74,
-      "last": 278.34
+      "last": 278.325
     },
     "TRMB": {
       "kind": "pending",
@@ -2514,7 +2524,7 @@
       "consumed_on": null,
       "h": 55.31,
       "l": 53.75,
-      "last": 54.72
+      "last": 54.68
     },
     "VLO": {
       "kind": "pending",
@@ -2523,7 +2533,7 @@
       "consumed_on": null,
       "h": 358.23,
       "l": 341.84,
-      "last": 356.97
+      "last": 356.76
     },
     "VRT": {
       "kind": "pending",
@@ -2532,7 +2542,7 @@
       "consumed_on": null,
       "h": 203.3,
       "l": 188.01,
-      "last": 200.4975
+      "last": 200.31
     },
     "WDC": {
       "kind": "pending",
@@ -2541,7 +2551,7 @@
       "consumed_on": null,
       "h": 293.395,
       "l": 269.8722,
-      "last": 289.7
+      "last": 289.78
     },
     "APH": {
       "kind": "pending",
@@ -2550,7 +2560,7 @@
       "consumed_on": "2026-11-09",
       "h": 81.21,
       "l": 75.51,
-      "last": 80.96
+      "last": 80.73
     },
     "ADI": {
       "kind": "pending",
@@ -2559,7 +2569,7 @@
       "consumed_on": "2026-11-09",
       "h": 396.33,
       "l": 367.12,
-      "last": 394.73
+      "last": 393.8
     },
     "CSCO": {
       "kind": "pending",
@@ -2568,7 +2578,7 @@
       "consumed_on": null,
       "h": 99.375,
       "l": 94.97,
-      "last": 98.86
+      "last": 98.67
     },
     "GLW": {
       "kind": "pending",
@@ -2577,7 +2587,7 @@
       "consumed_on": "2026-11-09",
       "h": 116.45,
       "l": 107.91,
-      "last": 115.89
+      "last": 115.95
     },
     "CRWD": {
       "kind": "pending",
@@ -2586,7 +2596,7 @@
       "consumed_on": null,
       "h": 231.23,
       "l": 216.2501,
-      "last": 228.835
+      "last": 228.58
     },
     "CMI": {
       "kind": "pending",
@@ -2595,7 +2605,7 @@
       "consumed_on": null,
       "h": 468.4401,
       "l": 455.16,
-      "last": 466.075
+      "last": 466.32
     },
     "DASH": {
       "kind": "pending",
@@ -2604,7 +2614,7 @@
       "consumed_on": null,
       "h": 183.355,
       "l": 179.5775,
-      "last": 181.25
+      "last": 180.96
     },
     "EXPE": {
       "kind": "pending",
@@ -2613,7 +2623,7 @@
       "consumed_on": null,
       "h": 272.0,
       "l": 255.26,
-      "last": 259.755
+      "last": 259.16
     },
     "FICO": {
       "kind": "pending",
@@ -2622,7 +2632,7 @@
       "consumed_on": null,
       "h": 724.4,
       "l": 695.38,
-      "last": 721.6475
+      "last": 723.76
     },
     "IRM": {
       "kind": "pending",
@@ -2631,7 +2641,7 @@
       "consumed_on": "2026-11-09",
       "h": 113.84,
       "l": 107.71,
-      "last": 111.12
+      "last": 110.94
     },
     "NWSA": {
       "kind": "pending",
@@ -2640,7 +2650,7 @@
       "consumed_on": null,
       "h": 26.585,
       "l": 26.11,
-      "last": 26.54
+      "last": 26.57
     },
     "NWS": {
       "kind": "pending",
@@ -2649,7 +2659,7 @@
       "consumed_on": null,
       "h": 29.4441,
       "l": 28.7,
-      "last": 29.28
+      "last": 29.33
     },
     "NSC": {
       "kind": "pending",
@@ -2658,7 +2668,7 @@
       "consumed_on": null,
       "h": 326.85,
       "l": 320.38,
-      "last": 326.13
+      "last": 325.847
     },
     "NVDA": {
       "kind": "pending",
@@ -2667,7 +2677,7 @@
       "consumed_on": null,
       "h": 179.92,
       "l": 170.24,
-      "last": 178.97
+      "last": 178.6
     },
     "PLTR": {
       "kind": "pending",
@@ -2676,7 +2686,7 @@
       "consumed_on": "2026-11-09",
       "h": 170.83,
       "l": 161.0,
-      "last": 169.665
+      "last": 169.2
     },
     "PANW": {
       "kind": "pending",
@@ -2685,7 +2695,7 @@
       "consumed_on": null,
       "h": 332.89,
       "l": 314.1,
-      "last": 331.175
+      "last": 330.89
     },
     "Q": {
       "kind": "pending",
@@ -2694,7 +2704,7 @@
       "consumed_on": null,
       "h": 126.35,
       "l": 118.0,
-      "last": 125.27
+      "last": 125.04
     },
     "RL": {
       "kind": "pending",
@@ -2703,7 +2713,7 @@
       "consumed_on": "2026-11-09",
       "h": 402.6,
       "l": 384.68,
-      "last": 399.66
+      "last": 398.77
     },
     "ROK": {
       "kind": "pending",
@@ -2712,7 +2722,7 @@
       "consumed_on": null,
       "h": 394.065,
       "l": 383.13,
-      "last": 389.18
+      "last": 388.98
     },
     "TXN": {
       "kind": "pending",
@@ -2721,7 +2731,7 @@
       "consumed_on": null,
       "h": 297.8,
       "l": 280.0,
-      "last": 295.79
+      "last": 295.73
     },
     "ZTS": {
       "kind": "pending",
@@ -2730,7 +2740,7 @@
       "consumed_on": null,
       "h": 82.5987,
       "l": 79.59,
-      "last": 82.335
+      "last": 82.29
     },
     "AOS": {
       "kind": "pending",
@@ -2739,7 +2749,7 @@
       "consumed_on": "2026-11-09",
       "h": 65.66,
       "l": 64.04,
-      "last": 65.225
+      "last": 65.19
     },
     "ABT": {
       "kind": "pending",
@@ -2757,7 +2767,7 @@
       "consumed_on": null,
       "h": 294.57,
       "l": 289.59,
-      "last": 293.08
+      "last": 293.28
     },
     "APD": {
       "kind": "pending",
@@ -2766,7 +2776,7 @@
       "consumed_on": null,
       "h": 312.74,
       "l": 305.11,
-      "last": 310.07
+      "last": 311.068
     },
     "ALL": {
       "kind": "pending",
@@ -2775,7 +2785,7 @@
       "consumed_on": null,
       "h": 258.0,
       "l": 251.04,
-      "last": 253.92
+      "last": 253.87
     },
     "MO": {
       "kind": "pending",
@@ -2784,7 +2794,7 @@
       "consumed_on": "2026-11-09",
       "h": 76.1425,
       "l": 75.1192,
-      "last": 75.72
+      "last": 75.8
     },
     "AMT": {
       "kind": "pending",
@@ -2793,7 +2803,7 @@
       "consumed_on": "2026-11-09",
       "h": 191.02,
       "l": 187.97,
-      "last": 189.255
+      "last": 189.06
     },
     "AWK": {
       "kind": "pending",
@@ -2802,7 +2812,7 @@
       "consumed_on": null,
       "h": 151.7767,
       "l": 148.64,
-      "last": 149.18
+      "last": 149.2
     },
     "AMGN": {
       "kind": "pending",
@@ -2811,7 +2821,7 @@
       "consumed_on": null,
       "h": 466.54,
       "l": 454.462,
-      "last": 465.2
+      "last": 465.23
     },
     "AON": {
       "kind": "pending",
@@ -2820,7 +2830,7 @@
       "consumed_on": "2026-11-09",
       "h": 339.82,
       "l": 332.17,
-      "last": 336.56
+      "last": 336.01
     },
     "AJG": {
       "kind": "pending",
@@ -2829,7 +2839,7 @@
       "consumed_on": "2026-11-09",
       "h": 283.67,
       "l": 276.83,
-      "last": 281.09
+      "last": 280.67
     },
     "ADSK": {
       "kind": "pending",
@@ -2838,7 +2848,7 @@
       "consumed_on": "2026-11-09",
       "h": 265.81,
       "l": 259.67,
-      "last": 263.745
+      "last": 263.35
     },
     "ADP": {
       "kind": "pending",
@@ -2847,7 +2857,7 @@
       "consumed_on": null,
       "h": 304.27,
       "l": 299.7,
-      "last": 301.96
+      "last": 302.06
     },
     "AZO": {
       "kind": "pending",
@@ -2856,7 +2866,7 @@
       "consumed_on": "2026-11-09",
       "h": 3281.03,
       "l": 3211.82,
-      "last": 3258.71
+      "last": 3251.93
     },
     "AVY": {
       "kind": "pending",
@@ -2865,7 +2875,7 @@
       "consumed_on": null,
       "h": 193.357,
       "l": 187.01,
-      "last": 187.87
+      "last": 188.058
     },
     "AXON": {
       "kind": "pending",
@@ -2874,7 +2884,7 @@
       "consumed_on": null,
       "h": 321.98,
       "l": 296.78,
-      "last": 303.01
+      "last": 303.18
     },
     "BAX": {
       "kind": "pending",
@@ -2883,7 +2893,7 @@
       "consumed_on": null,
       "h": 26.706,
       "l": 25.87,
-      "last": 26.47
+      "last": 26.405
     },
     "BKNG": {
       "kind": "pending",
@@ -2892,7 +2902,7 @@
       "consumed_on": null,
       "h": 164.5,
       "l": 160.26,
-      "last": 163.5948
+      "last": 163.49
     },
     "BSX": {
       "kind": "pending",
@@ -2901,7 +2911,7 @@
       "consumed_on": "2026-11-09",
       "h": 44.33,
       "l": 43.04,
-      "last": 44.085
+      "last": 44.03
     },
     "BMY": {
       "kind": "pending",
@@ -2910,7 +2920,7 @@
       "consumed_on": null,
       "h": 63.0641,
       "l": 61.8,
-      "last": 62.225
+      "last": 62.15
     },
     "BRO": {
       "kind": "pending",
@@ -2919,7 +2929,7 @@
       "consumed_on": "2026-11-09",
       "h": 72.93,
       "l": 70.805,
-      "last": 70.97
+      "last": 71.0
     },
     "BLDR": {
       "kind": "pending",
@@ -2928,7 +2938,7 @@
       "consumed_on": "2026-11-09",
       "h": 66.805,
       "l": 63.52,
-      "last": 65.61
+      "last": 65.96
     },
     "CPT": {
       "kind": "pending",
@@ -2937,7 +2947,7 @@
       "consumed_on": null,
       "h": 100.79,
       "l": 99.325,
-      "last": 100.23
+      "last": 100.25
     },
     "CBRE": {
       "kind": "pending",
@@ -2946,7 +2956,7 @@
       "consumed_on": null,
       "h": 140.26,
       "l": 136.43,
-      "last": 138.425
+      "last": 138.19
     },
     "CNC": {
       "kind": "pending",
@@ -2955,16 +2965,16 @@
       "consumed_on": null,
       "h": 70.92,
       "l": 68.35,
-      "last": 68.56
+      "last": 68.54
     },
     "CHTR": {
       "kind": "pending",
       "gap_open": 115.74,
       "gap_date": "2026-11-06",
       "consumed_on": null,
-      "h": 121.43,
+      "h": 121.65,
       "l": 115.95,
-      "last": 120.785
+      "last": 121.2
     },
     "CB": {
       "kind": "pending",
@@ -2973,7 +2983,7 @@
       "consumed_on": "2026-11-09",
       "h": 367.17,
       "l": 360.48,
-      "last": 363.01
+      "last": 363.48
     },
     "CHD": {
       "kind": "pending",
@@ -2982,7 +2992,7 @@
       "consumed_on": null,
       "h": 111.75,
       "l": 109.09,
-      "last": 111.175
+      "last": 111.25
     },
     "CI": {
       "kind": "pending",
@@ -2991,7 +3001,7 @@
       "consumed_on": "2026-11-09",
       "h": 298.05,
       "l": 291.57,
-      "last": 294.28
+      "last": 295.59
     },
     "CTAS": {
       "kind": "pending",
@@ -3000,7 +3010,7 @@
       "consumed_on": null,
       "h": 224.46,
       "l": 221.61,
-      "last": 223.24
+      "last": 223.16
     },
     "CLX": {
       "kind": "pending",
@@ -3009,7 +3019,7 @@
       "consumed_on": null,
       "h": 105.93,
       "l": 100.2975,
-      "last": 105.575
+      "last": 105.47
     },
     "CMS": {
       "kind": "pending",
@@ -3018,16 +3028,16 @@
       "consumed_on": null,
       "h": 69.84,
       "l": 68.86,
-      "last": 69.425
+      "last": 69.55
     },
     "KO": {
       "kind": "pending",
       "gap_open": 93.21,
       "gap_date": "2026-11-06",
       "consumed_on": null,
-      "h": 96.05,
+      "h": 96.06,
       "l": 94.72,
-      "last": 95.89
+      "last": 96.05
     },
     "CL": {
       "kind": "pending",
@@ -3036,7 +3046,7 @@
       "consumed_on": null,
       "h": 98.205,
       "l": 96.56,
-      "last": 97.84
+      "last": 97.98
     },
     "CMCSA": {
       "kind": "pending",
@@ -3045,7 +3055,7 @@
       "consumed_on": "2026-11-09",
       "h": 24.57,
       "l": 24.11,
-      "last": 24.5
+      "last": 24.51
     },
     "STZ": {
       "kind": "pending",
@@ -3054,7 +3064,7 @@
       "consumed_on": null,
       "h": 145.98,
       "l": 142.2101,
-      "last": 144.97
+      "last": 145.47
     },
     "COO": {
       "kind": "pending",
@@ -3063,7 +3073,7 @@
       "consumed_on": null,
       "h": 64.305,
       "l": 62.5,
-      "last": 63.955
+      "last": 63.93
     },
     "CPRT": {
       "kind": "pending",
@@ -3072,7 +3082,7 @@
       "consumed_on": null,
       "h": 32.69,
       "l": 31.78,
-      "last": 32.475
+      "last": 32.45
     },
     "CPAY": {
       "kind": "pending",
@@ -3081,7 +3091,7 @@
       "consumed_on": null,
       "h": 463.0732,
       "l": 447.02,
-      "last": 458.0975
+      "last": 457.94
     },
     "CSGP": {
       "kind": "pending",
@@ -3090,7 +3100,7 @@
       "consumed_on": "2026-11-09",
       "h": 31.375,
       "l": 29.87,
-      "last": 31.23
+      "last": 31.24
     },
     "DRI": {
       "kind": "pending",
@@ -3099,7 +3109,7 @@
       "consumed_on": null,
       "h": 231.14,
       "l": 227.2,
-      "last": 229.83
+      "last": 229.79
     },
     "DVA": {
       "kind": "pending",
@@ -3108,7 +3118,7 @@
       "consumed_on": "2026-11-09",
       "h": 192.875,
       "l": 184.97,
-      "last": 185.64
+      "last": 185.44
     },
     "DECK": {
       "kind": "pending",
@@ -3117,7 +3127,7 @@
       "consumed_on": null,
       "h": 91.47,
       "l": 87.14,
-      "last": 90.79
+      "last": 90.45
     },
     "DXCM": {
       "kind": "pending",
@@ -3126,7 +3136,7 @@
       "consumed_on": null,
       "h": 81.45,
       "l": 79.31,
-      "last": 81.09
+      "last": 81.07
     },
     "DG": {
       "kind": "pending",
@@ -3135,7 +3145,7 @@
       "consumed_on": "2026-11-09",
       "h": 137.49,
       "l": 133.345,
-      "last": 136.95
+      "last": 136.68
     },
     "DLTR": {
       "kind": "pending",
@@ -3144,7 +3154,7 @@
       "consumed_on": "2026-11-09",
       "h": 138.61,
       "l": 132.0,
-      "last": 137.64
+      "last": 137.23
     },
     "DPZ": {
       "kind": "pending",
@@ -3153,7 +3163,7 @@
       "consumed_on": null,
       "h": 336.75,
       "l": 331.37,
-      "last": 334.15
+      "last": 334.18
     },
     "DHI": {
       "kind": "pending",
@@ -3162,7 +3172,7 @@
       "consumed_on": null,
       "h": 157.785,
       "l": 154.04,
-      "last": 155.58
+      "last": 155.63
     },
     "DUK": {
       "kind": "pending",
@@ -3171,7 +3181,7 @@
       "consumed_on": null,
       "h": 129.19,
       "l": 127.26,
-      "last": 128.32
+      "last": 128.23
     },
     "ELV": {
       "kind": "pending",
@@ -3180,7 +3190,7 @@
       "consumed_on": "2026-11-09",
       "h": 428.51,
       "l": 416.6,
-      "last": 417.43
+      "last": 418.16
     },
     "EG": {
       "kind": "pending",
@@ -3189,7 +3199,7 @@
       "consumed_on": null,
       "h": 416.035,
       "l": 409.38,
-      "last": 412.21
+      "last": 412.8
     },
     "ES": {
       "kind": "pending",
@@ -3198,7 +3208,7 @@
       "consumed_on": null,
       "h": 70.46,
       "l": 69.2,
-      "last": 69.65
+      "last": 69.49
     },
     "FDS": {
       "kind": "pending",
@@ -3207,7 +3217,7 @@
       "consumed_on": null,
       "h": 330.585,
       "l": 323.11,
-      "last": 325.835
+      "last": 326.53
     },
     "FE": {
       "kind": "pending",
@@ -3216,7 +3226,7 @@
       "consumed_on": null,
       "h": 46.85,
       "l": 46.27,
-      "last": 46.575
+      "last": 46.615
     },
     "FISV": {
       "kind": "pending",
@@ -3225,7 +3235,7 @@
       "consumed_on": null,
       "h": 64.056,
       "l": 62.89,
-      "last": 63.475
+      "last": 63.52
     },
     "GEHC": {
       "kind": "pending",
@@ -3234,7 +3244,7 @@
       "consumed_on": null,
       "h": 84.66,
       "l": 81.76,
-      "last": 84.06
+      "last": 84.03
     },
     "GIS": {
       "kind": "pending",
@@ -3243,7 +3253,7 @@
       "consumed_on": "2026-11-09",
       "h": 35.5042,
       "l": 34.67,
-      "last": 34.915
+      "last": 34.885
     },
     "GM": {
       "kind": "pending",
@@ -3252,7 +3262,7 @@
       "consumed_on": "2026-11-09",
       "h": 90.105,
       "l": 87.09,
-      "last": 89.45
+      "last": 89.66
     },
     "GPC": {
       "kind": "pending",
@@ -3261,7 +3271,7 @@
       "consumed_on": null,
       "h": 127.21,
       "l": 123.275,
-      "last": 125.975
+      "last": 125.67
     },
     "GILD": {
       "kind": "pending",
@@ -3270,7 +3280,7 @@
       "consumed_on": null,
       "h": 170.11,
       "l": 165.985,
-      "last": 169.54
+      "last": 169.32
     },
     "HSY": {
       "kind": "pending",
@@ -3279,7 +3289,7 @@
       "consumed_on": "2026-11-09",
       "h": 176.9,
       "l": 169.67,
-      "last": 173.0
+      "last": 173.47
     },
     "HD": {
       "kind": "pending",
@@ -3288,7 +3298,7 @@
       "consumed_on": null,
       "h": 356.9,
       "l": 346.78,
-      "last": 354.33
+      "last": 353.45
     },
     "HRL": {
       "kind": "pending",
@@ -3297,7 +3307,7 @@
       "consumed_on": "2026-11-09",
       "h": 22.34,
       "l": 21.83,
-      "last": 22.225
+      "last": 22.25
     },
     "IDXX": {
       "kind": "pending",
@@ -3306,7 +3316,7 @@
       "consumed_on": null,
       "h": 709.26,
       "l": 680.89,
-      "last": 707.32
+      "last": 706.65
     },
     "ICE": {
       "kind": "pending",
@@ -3315,7 +3325,7 @@
       "consumed_on": null,
       "h": 175.075,
       "l": 172.47,
-      "last": 174.05
+      "last": 174.13
     },
     "IFF": {
       "kind": "pending",
@@ -3324,7 +3334,7 @@
       "consumed_on": "2026-11-09",
       "h": 85.735,
       "l": 83.04,
-      "last": 84.555
+      "last": 84.43
     },
     "JKHY": {
       "kind": "pending",
@@ -3333,7 +3343,7 @@
       "consumed_on": null,
       "h": 173.894,
       "l": 170.3207,
-      "last": 171.14
+      "last": 171.2
     },
     "KMB": {
       "kind": "pending",
@@ -3342,7 +3352,7 @@
       "consumed_on": "2026-11-09",
       "h": 112.911,
       "l": 107.33,
-      "last": 111.79
+      "last": 111.87
     },
     "KHC": {
       "kind": "pending",
@@ -3351,16 +3361,16 @@
       "consumed_on": "2026-11-09",
       "h": 24.685,
       "l": 24.0701,
-      "last": 24.4
+      "last": 24.42
     },
     "KR": {
       "kind": "pending",
       "gap_open": 67.31,
       "gap_date": "2026-11-06",
       "consumed_on": "2026-11-09",
-      "h": 68.15,
+      "h": 68.19,
       "l": 66.82,
-      "last": 68.085
+      "last": 68.02
     },
     "LVS": {
       "kind": "pending",
@@ -3368,8 +3378,8 @@
       "gap_date": "2026-11-06",
       "consumed_on": null,
       "h": 41.73,
-      "l": 40.26,
-      "last": 40.335
+      "l": 40.17,
+      "last": 40.185
     },
     "LDOS": {
       "kind": "pending",
@@ -3378,7 +3388,7 @@
       "consumed_on": "2026-11-09",
       "h": 137.32,
       "l": 132.09,
-      "last": 135.54
+      "last": 135.73
     },
     "LEN": {
       "kind": "pending",
@@ -3387,7 +3397,7 @@
       "consumed_on": null,
       "h": 93.1573,
       "l": 89.755,
-      "last": 91.78
+      "last": 91.59
     },
     "LYV": {
       "kind": "pending",
@@ -3396,7 +3406,7 @@
       "consumed_on": null,
       "h": 177.9,
       "l": 171.65,
-      "last": 177.2
+      "last": 176.74
     },
     "LOW": {
       "kind": "pending",
@@ -3405,7 +3415,7 @@
       "consumed_on": null,
       "h": 234.43,
       "l": 227.23,
-      "last": 232.2
+      "last": 232.16
     },
     "LULU": {
       "kind": "pending",
@@ -3414,7 +3424,7 @@
       "consumed_on": null,
       "h": 114.69,
       "l": 110.0,
-      "last": 112.83
+      "last": 112.53
     },
     "MRSH": {
       "kind": "pending",
@@ -3423,7 +3433,7 @@
       "consumed_on": null,
       "h": 207.01,
       "l": 204.05,
-      "last": 205.02
+      "last": 204.54
     },
     "MLM": {
       "kind": "pending",
@@ -3432,7 +3442,7 @@
       "consumed_on": null,
       "h": 539.99,
       "l": 523.214,
-      "last": 531.0675
+      "last": 530.58
     },
     "MAS": {
       "kind": "pending",
@@ -3441,7 +3451,7 @@
       "consumed_on": null,
       "h": 86.85,
       "l": 83.51,
-      "last": 85.83
+      "last": 85.94
     },
     "MA": {
       "kind": "pending",
@@ -3450,7 +3460,7 @@
       "consumed_on": null,
       "h": 660.63,
       "l": 648.54,
-      "last": 655.74
+      "last": 655.97
     },
     "MKC": {
       "kind": "pending",
@@ -3459,7 +3469,7 @@
       "consumed_on": "2026-11-09",
       "h": 48.51,
       "l": 47.401,
-      "last": 47.955
+      "last": 47.86
     },
     "MCD": {
       "kind": "pending",
@@ -3468,7 +3478,7 @@
       "consumed_on": null,
       "h": 283.26,
       "l": 276.8533,
-      "last": 281.685
+      "last": 281.72
     },
     "MDT": {
       "kind": "pending",
@@ -3477,7 +3487,7 @@
       "consumed_on": "2026-11-09",
       "h": 103.69,
       "l": 101.53,
-      "last": 102.87
+      "last": 102.83
     },
     "MAA": {
       "kind": "pending",
@@ -3486,7 +3496,7 @@
       "consumed_on": "2026-11-09",
       "h": 120.61,
       "l": 119.085,
-      "last": 119.665
+      "last": 119.38
     },
     "TAP": {
       "kind": "pending",
@@ -3495,7 +3505,7 @@
       "consumed_on": "2026-11-09",
       "h": 40.0,
       "l": 38.83,
-      "last": 39.615
+      "last": 39.83
     },
     "MDLZ": {
       "kind": "pending",
@@ -3504,7 +3514,7 @@
       "consumed_on": null,
       "h": 66.62,
       "l": 65.34,
-      "last": 66.43
+      "last": 66.44
     },
     "MNST": {
       "kind": "pending",
@@ -3513,16 +3523,16 @@
       "consumed_on": null,
       "h": 46.13,
       "l": 44.94,
-      "last": 45.61
+      "last": 45.64
     },
     "MCO": {
       "kind": "pending",
       "gap_open": 501.68,
       "gap_date": "2026-11-06",
       "consumed_on": null,
-      "h": 510.97,
+      "h": 511.12,
       "l": 503.186,
-      "last": 509.895
+      "last": 511.1
     },
     "MSCI": {
       "kind": "pending",
@@ -3531,7 +3541,7 @@
       "consumed_on": "2026-11-09",
       "h": 651.08,
       "l": 638.7,
-      "last": 647.74
+      "last": 646.82
     },
     "NFLX": {
       "kind": "pending",
@@ -3540,7 +3550,7 @@
       "consumed_on": "2026-11-09",
       "h": 64.13,
       "l": 62.95,
-      "last": 63.98
+      "last": 63.95
     },
     "NEE": {
       "kind": "pending",
@@ -3548,8 +3558,8 @@
       "gap_date": "2026-11-06",
       "consumed_on": null,
       "h": 87.72,
-      "l": 86.87,
-      "last": 86.915
+      "l": 86.83,
+      "last": 87.19
     },
     "NKE": {
       "kind": "pending",
@@ -3558,7 +3568,7 @@
       "consumed_on": null,
       "h": 40.17,
       "l": 38.6,
-      "last": 39.885
+      "last": 39.88
     },
     "NVR": {
       "kind": "pending",
@@ -3567,7 +3577,7 @@
       "consumed_on": "2026-11-09",
       "h": 6442.52,
       "l": 6251.965,
-      "last": 6354.84
+      "last": 6353.4
     },
     "OMC": {
       "kind": "pending",
@@ -3576,7 +3586,7 @@
       "consumed_on": null,
       "h": 89.15,
       "l": 86.44,
-      "last": 88.7
+      "last": 88.5
     },
     "OTIS": {
       "kind": "pending",
@@ -3585,7 +3595,7 @@
       "consumed_on": null,
       "h": 79.77,
       "l": 78.43,
-      "last": 78.995
+      "last": 78.79
     },
     "PAYX": {
       "kind": "pending",
@@ -3594,7 +3604,7 @@
       "consumed_on": "2026-11-09",
       "h": 117.32,
       "l": 114.54,
-      "last": 114.92
+      "last": 114.76
     },
     "PYPL": {
       "kind": "pending",
@@ -3603,7 +3613,7 @@
       "consumed_on": null,
       "h": 60.635,
       "l": 59.66,
-      "last": 60.15
+      "last": 60.05
     },
     "PNR": {
       "kind": "pending",
@@ -3612,7 +3622,7 @@
       "consumed_on": null,
       "h": 70.67,
       "l": 68.885,
-      "last": 70.09
+      "last": 70.2
     },
     "PEP": {
       "kind": "pending",
@@ -3621,7 +3631,7 @@
       "consumed_on": null,
       "h": 143.48,
       "l": 140.575,
-      "last": 141.865
+      "last": 141.88
     },
     "PFE": {
       "kind": "pending",
@@ -3630,7 +3640,7 @@
       "consumed_on": "2026-11-09",
       "h": 29.63,
       "l": 28.98,
-      "last": 29.285
+      "last": 29.24
     },
     "PG": {
       "kind": "pending",
@@ -3639,7 +3649,7 @@
       "consumed_on": null,
       "h": 168.735,
       "l": 165.23,
-      "last": 168.11
+      "last": 168.31
     },
     "PHM": {
       "kind": "pending",
@@ -3648,7 +3658,7 @@
       "consumed_on": null,
       "h": 137.58,
       "l": 134.06,
-      "last": 136.045
+      "last": 135.91
     },
     "RSG": {
       "kind": "pending",
@@ -3657,7 +3667,7 @@
       "consumed_on": null,
       "h": 247.43,
       "l": 243.85,
-      "last": 246.865
+      "last": 246.78
     },
     "RMD": {
       "kind": "pending",
@@ -3666,7 +3676,7 @@
       "consumed_on": "2026-11-09",
       "h": 237.835,
       "l": 231.31,
-      "last": 235.91
+      "last": 235.77
     },
     "ROP": {
       "kind": "pending",
@@ -3675,7 +3685,7 @@
       "consumed_on": null,
       "h": 476.875,
       "l": 465.95,
-      "last": 471.8875
+      "last": 471.64
     },
     "SPGI": {
       "kind": "pending",
@@ -3684,7 +3694,7 @@
       "consumed_on": null,
       "h": 473.395,
       "l": 465.01,
-      "last": 471.95
+      "last": 471.1
     },
     "SJM": {
       "kind": "pending",
@@ -3693,7 +3703,7 @@
       "consumed_on": "2026-11-09",
       "h": 134.13,
       "l": 129.585,
-      "last": 133.22
+      "last": 133.3
     },
     "SBUX": {
       "kind": "pending",
@@ -3702,7 +3712,7 @@
       "consumed_on": null,
       "h": 110.19,
       "l": 106.28,
-      "last": 109.475
+      "last": 109.44
     },
     "STE": {
       "kind": "pending",
@@ -3711,7 +3721,7 @@
       "consumed_on": null,
       "h": 259.09,
       "l": 249.67,
-      "last": 257.75
+      "last": 257.0
     },
     "TPR": {
       "kind": "pending",
@@ -3720,7 +3730,7 @@
       "consumed_on": null,
       "h": 136.7,
       "l": 132.26,
-      "last": 136.09
+      "last": 136.11
     },
     "TJX": {
       "kind": "pending",
@@ -3729,16 +3739,16 @@
       "consumed_on": null,
       "h": 138.37,
       "l": 136.0,
-      "last": 138.16
+      "last": 138.18
     },
     "TKO": {
       "kind": "pending",
       "gap_open": 183.81,
       "gap_date": "2026-11-06",
       "consumed_on": null,
-      "h": 199.16,
+      "h": 199.67,
       "l": 191.18,
-      "last": 198.865
+      "last": 199.66
     },
     "TYL": {
       "kind": "pending",
@@ -3747,7 +3757,7 @@
       "consumed_on": "2026-11-09",
       "h": 423.67,
       "l": 413.13,
-      "last": 418.38
+      "last": 418.35
     },
     "TSN": {
       "kind": "pending",
@@ -3756,7 +3766,7 @@
       "consumed_on": null,
       "h": 60.195,
       "l": 59.14,
-      "last": 59.94
+      "last": 59.89
     },
     "UDR": {
       "kind": "pending",
@@ -3765,7 +3775,7 @@
       "consumed_on": null,
       "h": 36.98,
       "l": 36.56,
-      "last": 36.715
+      "last": 36.72
     },
     "UHS": {
       "kind": "pending",
@@ -3774,7 +3784,7 @@
       "consumed_on": null,
       "h": 199.41,
       "l": 196.45,
-      "last": 197.57
+      "last": 197.16
     },
     "VEEV": {
       "kind": "pending",
@@ -3783,7 +3793,7 @@
       "consumed_on": null,
       "h": 308.2072,
       "l": 300.5901,
-      "last": 306.1
+      "last": 306.55
     },
     "VLTO": {
       "kind": "pending",
@@ -3792,7 +3802,7 @@
       "consumed_on": null,
       "h": 118.65,
       "l": 116.0,
-      "last": 118.03
+      "last": 118.04
     },
     "VRSK": {
       "kind": "pending",
@@ -3801,7 +3811,7 @@
       "consumed_on": "2026-11-09",
       "h": 205.72,
       "l": 199.84,
-      "last": 200.22
+      "last": 200.6
     },
     "VZ": {
       "kind": "pending",
@@ -3810,7 +3820,7 @@
       "consumed_on": null,
       "h": 46.33,
       "l": 45.36,
-      "last": 46.11
+      "last": 46.08
     },
     "VRTX": {
       "kind": "pending",
@@ -3819,7 +3829,7 @@
       "consumed_on": null,
       "h": 555.99,
       "l": 538.4802,
-      "last": 551.79
+      "last": 550.87
     },
     "VMC": {
       "kind": "pending",
@@ -3828,7 +3838,7 @@
       "consumed_on": null,
       "h": 293.95,
       "l": 285.65,
-      "last": 289.71
+      "last": 289.46
     },
     "WRB": {
       "kind": "pending",
@@ -3837,7 +3847,7 @@
       "consumed_on": "2026-11-09",
       "h": 76.11,
       "l": 74.8,
-      "last": 75.975
+      "last": 75.92
     },
     "WMT": {
       "kind": "pending",
@@ -3846,7 +3856,7 @@
       "consumed_on": "2026-11-09",
       "h": 125.99,
       "l": 123.575,
-      "last": 125.585
+      "last": 125.66
     },
     "DIS": {
       "kind": "pending",
@@ -3855,7 +3865,7 @@
       "consumed_on": null,
       "h": 119.3772,
       "l": 117.225,
-      "last": 118.96
+      "last": 119.13
     },
     "WY": {
       "kind": "pending",
@@ -3864,7 +3874,7 @@
       "consumed_on": "2026-11-09",
       "h": 21.28,
       "l": 21.0,
-      "last": 21.135
+      "last": 21.14
     },
     "WTW": {
       "kind": "pending",
@@ -3873,7 +3883,7 @@
       "consumed_on": "2026-11-09",
       "h": 334.39,
       "l": 325.39,
-      "last": 326.79
+      "last": 327.01
     },
     "WDAY": {
       "kind": "pending",
@@ -3882,7 +3892,7 @@
       "consumed_on": "2026-11-09",
       "h": 194.9,
       "l": 188.575,
-      "last": 190.2
+      "last": 190.21
     },
     "XEL": {
       "kind": "pending",
@@ -3891,7 +3901,7 @@
       "consumed_on": null,
       "h": 80.67,
       "l": 79.41,
-      "last": 80.15
+      "last": 80.17
     },
     "XYL": {
       "kind": "pending",
@@ -3900,7 +3910,7 @@
       "consumed_on": "2026-11-09",
       "h": 100.0,
       "l": 97.575,
-      "last": 99.41
+      "last": 99.23
     },
     "YUM": {
       "kind": "pending",
@@ -3909,7 +3919,7 @@
       "consumed_on": "2026-11-09",
       "h": 162.28,
       "l": 159.415,
-      "last": 161.065
+      "last": 160.93
     },
     "ZBH": {
       "kind": "pending",
@@ -3918,7 +3928,7 @@
       "consumed_on": null,
       "h": 109.32,
       "l": 105.51,
-      "last": 108.545
+      "last": 108.36
     }
   }
 }
